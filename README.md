@@ -313,92 +313,99 @@
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="Data Types and Variables - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Data%20Types%20and%20Variables%20-%20Lab" target="_blank">Data Types and Variables - Lab</a></p>
+<p><a title="Lists - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/GitGitHubDebuggingSearching-Lab" target="_blank">Git and GitHub</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Data Types and Variables - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises" target="_blank">Data Types and Variables - Exercises</a></p>
+<p><a title="Lists - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/GitGitHubDebuggingSearching-Exercises" target="_blank">Git and GitHub-Exercises</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Methods and Debugging - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Methods%20and%20Debugging%20-%20Lab" target="_blank">Methods and Debugging - Lab</a></p>
+<p><a title="Data Types and Variables - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/07.%20Arrays-Lists-Stacks-Queues" target="_blank">Arrays-Lists-Stacks-Queues</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Methods and Debugging - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Methods%20and%20Debugging%20-%20Exercises" target="_blank">Methods and Debugging - Exercises</a></p>
+<p><a title="Data Types and Variables - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries" target="_blank">Multidimensional Arrays, Sets, Dictionaries</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Arrays - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Arrays%20-%20Lab" target="_blank">Arrays - Lab</a></p>
+<p><a title="Methods and Debugging - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/09.%20Methods" target="_blank">Methods</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Arrays - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Arrays%20-%20Exercises" target="_blank">Arrays - Exercises</a></p>
+<p><a title="Methods and Debugging - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/10.%20String%20and%20Text%20Processing" target="_blank">String and Text Processing</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Lists - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Lists%20-%20Lab" target="_blank">Lists - Lab</a></p>
+<p><a title="Arrays - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/11.%20Regular%20Expressions" target="_blank">Regular Expressions</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Lists - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Lists%20-%20Exercises" target="_blank">Lists - Exercises</a></p>
+<p><a title="Arrays - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/12.%20Files%20And%20Exceptions" target="_blank">Files And Exceptions</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p></p>
+<p><a title="Lists - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/13.%20LINQ%20and%20Lambda%20expressions" target="_blank">LINQ and Lambda expressions</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Dictionaries Lambda LINQ - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Dictionaries%20Lambda%20LINQ%20-%20Exercises" target="_blank">Dictionaries Lambda LINQ - Exercises</a></p>
+<p><a title="Lists - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/14.%20Classes%20and%20Objects" target="_blank">Classes and Objects</a></p>
 </td>
 </tr>
-<tr>
-<td width="50%">
-<p><a title="Objects and Classes - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Objects%20and%20Classes%20-%20Lab" target="_blank">Objects and Classes - Lab</a></p>
-</td>
-<td colspan="2" width="50%">
-<p><a title="Objects and Classes - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Objects%20and%20Classes%20-%20Exercises" target="_blank">Objects and Classes - Exercises</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<p><a title="Files and Directories - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Files%20and%20Directories%20-%20Lab" target="_blank">Files and Directories - Lab</a></p>
-</td>
-<td colspan="2" width="50%">
-<p><a title="Files and Exceptions - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Files%20and%20Exceptions%20-%20Exercises" target="_blank">Files and Exceptions - Exercises</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<p><a title="Strings - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Strings%20-%20Lab" target="_blank">Strings - Lab</a></p>
-</td>
-<td colspan="2" width="50%">
-<p><a title="Strings - Exercise" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Strings%20-%20Exercise" target="_blank">Strings - Exercise</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<p><a title="Regex - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Regex%20-%20Lab" target="_blank">Regex - Lab</a></p>
-</td>
-<td colspan="2" width="50%">
-<p><a title="Regex - Exercise" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Regex%20-%20Exercise" target="_blank">Regex - Exercise</a></p>
-</td>
-</tr>
+
 <tr><td colspan="3" align="center" width="100%"><p>Exam Preparation</p></td></tr>
 <tr>
 <td width="50%">
-<p><a title="Exam Preparation I" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Exam%20Preparation%20I" target="_blank">Exam Preparation I</a></p>
+<p><a title="Exam Preparation I" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/All%20EXAMS/(Old)%20Programming%20Fundamentals%20Exam%20-%2024%20April%202016/ProgFundamen24April2016" target="_blank">(Old) Programming Fundamentals Exam - 24 April 2016</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Exam Preparation II" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Exam%20Preparation%20II" target="_blank">Exam Preparation II</a></p>
+<p><a title="Exam Preparation II" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/All%20EXAMS/Exam%20Preparation%20I" target="_blank">Exam Preparation I</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Exam Preparation III" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Exam%20Preparation%20III" target="_blank">Exam Preparation III</a></p>
+<p><a title="Exam Preparation III" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/All%20EXAMS/Exam%20Preparation%20II" target="_blank">Exam Preparation II</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Exam Preparation IV" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Programming%20Fundamentals/Exam%20Preparation%20IV" target="_blank">Exam Preparation IV</a></p>
+<p><a title="Exam Preparation IV" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/All%20EXAMS/Exam%20Preparation%20III" target="_blank">Exam Preparation III</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam Preparation III" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/All%20EXAMS/Exam%20Preperation%20IV">Exam Preperation IV</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Exam Preparation IV" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/All%20EXAMS/Exam%20Program%20Fundamentals%20-%2026Feb" target="_blank">Exam Program Fundamentals - 26Feb</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam Preparation III" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/All%20EXAMS/ProgFundRetake%20-%2011-09-16" target="_blank">ProgFundRetake - 11-09-16</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Exam Preparation IV" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/All%20EXAMS/ProgFundSample%20-%20October-2016" target="_blank">ProgFundSample - October-2016</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam Preparation III" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/All%20EXAMS/ProgFundSampleII%20-%20Oct2006" target="_blank">ProgFundSampleII - Oct2006</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Exam Preparation IV" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/All%20EXAMS/ProgFundamen%20Sample%2024April2016/ProgFundamenSample" target="_blank">ProgFundamen Sample 24April2016</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam Preparation III" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/All%20EXAMS/ProgFundamentals%20Exam%20-%2012%20June%202016/ProgFundnExam%2012-06-16" target="_blank">ProgFundamentals Exam - 12 June 2016</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Exam Preparation IV" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/All%20EXAMS/Sample%20Exam%20I%20-%20June%202016/Sample%20Exam%20I%20-%20June%202016" target="_blank">Sample Exam I - June 2016</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam Preparation III" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Fundamentals/All%20EXAMS/Sample%20Exam%20II%20-%20June%202016/Sample%20Exam%20II%20-%20June%202016" target="_blank">Sample Exam II - June 2016</a></p>
+</td>
+<td colspan="2" width="50%">&nbsp;</td>
 </tr>
 </tbody>
 </table>
