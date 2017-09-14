@@ -152,90 +152,121 @@
 <!-- C# Advanced Start --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
-<tr><th align="center" width="50%">C# Advanced - May 2017: <br /> 23.05.2017 - 25.06..2017</th><th width="40%">Grade: <br /> Issue Date:</th><th align="center width=">
+<tr><th align="center" width="50%">C# Advanced - May 2017: <br /> 23.05.2017 - 25.06.2017</th><th width="40%">Grade: 5.78 (out of 6.00)<br /> Issue Date: </th><th align="center width=">
 <p>Certificate</p>
 </th></tr>
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="Stacks and Queues - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Stacks%20and%20Queues%20-%20Lab" target="_blank">Stacks and Queues - Lab</a></p>
+<p><a title="Stacks and Queues - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/StacksAndQueues%20-%20LAB" target="_blank">Stacks and Queues - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Stacks and Queues - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Stacks%20and%20Queues" target="_blank">Stacks and Queues - Exercises</a></p>
+<p><a title="Stacks and Queues - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/StacksAndQueues" target="_blank">Stacks and Queues - Exercises</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Sets and Dictionaries - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Sets%20and%20Dictionaries%20-%20Lab" target="_blank">Sets and Dictionaries - Lab</a></p>
+<p><a title="Sets and Dictionaries - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Sets%20and%20Dictionaries%20-%20LAB" target="_blank">Sets and Dictionaries - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Sets and Dictionaries - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Sets%20and%20Dictionaries" target="_blank">Sets and Dictionaries - Exercises</a></p>
+<p><a title="Sets and Dictionaries - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Sets%20and%20Dictionaries" target="_blank">Sets and Dictionaries - Exercises</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Multidimensional Arrays - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Multidimensional%20Arrays%20-%20Lab" target="_blank">Multidimensional Arrays - Lab</a></p>
+<p><a title="Multidimensional Arrays (Matrices) - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Matrices%20-%20LAB" target="_blank">Multidimensional Arrays (Matrices) - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Matrices - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Matrices%20-%20Exercises" target="_blank">Matrices - Exercises</a></p>
+<p><a title="Matrices - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Matrices" target="_blank">Matrices - Exercises</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Streams - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Streams%20-%20Lab" target="_blank">Streams - Lab</a></p>
-<p><a title="Files And Directories" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Files%20And%20Directories" target="_blank">Files And Directories</a></p>
+<p><a title="Files And Directories" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Files%20And%20Directories">Files And Directories</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Streams - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Streams%20-%20Exercises" target="_blank">Streams - Exercises</a></p>
+<p><a title="Streams" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Streams" target="_blank">Streams</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Manual String Processing - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Manual%20String%20Processing%20-%20Lab" target="_blank">Manual String Processing - Lab</a></p>
+<p><a title="Manual String Processing - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/ManualStrProcessing%20-%20Lab" target="_blank">Manual String Processing - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Manual String Processing - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Manual%20String%20Processing%20-%20Exercises" target="_blank">Manual String Processing - Exercises</a></p>
+<p><a title="Manual String Processing - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Manual%20String%20Processing" target="_blank">Manual String Processing - Exercises</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Regular Expressions - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Regular%20Expressions%20-%20Lab" target="_blank">Regular Expressions - Lab</a></p>
+<p><a title="Regular Expressions - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Regex%20-%20Lab" target="_blank">Regular Expressions - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Regular Expressions - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Regular%20Expressions" target="_blank">Regular Expressions - Exercises</a></p>
+<p><a title="Regular Expressions - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Regular%20Expressions" target="_blank">Regular Expressions - Exercises</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Functional Programming - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Functional%20Programming%20-%20Lab" target="_blank">Functional Programming - Lab</a></p>
+<p><a title="Functional Programming - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/FunctionalProgramming%20-%20Lab" target="_blank">Functional Programming - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Functional Programming - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Functional%20Programming%20-%20Exercises" target="_blank">Functional Programming - Exercises</a></p>
+<p><a title="Functional Programming - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Functional%20Programming" target="_blank">Functional Programming - Exercises</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="LINQ - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/LINQ%20-%20Lab" target="_blank">LINQ - Lab</a></p>
+<p><a title="LINQ - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/LINQ%20-%20Lab" target="_blank">LINQ - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="LINQ - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/LINQ%20-%20Exercises" target="_blank">LINQ - Exercises</a></p>
+<p><a title="LINQ - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/LINQ" target="_blank">LINQ - Exercises</a></p>
 </td>
 </tr>
 <tr><td colspan="3" align="center" width="100%"><p>Exam Preparation</p></td></tr>
 <tr>
 <td width="50%">
-<p><a title="Exam 13 June 2016" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Exam%20Preparation/Exam%2013%20June%202016" target="_blank">Exam 13 June 2016</a></p>
+<p><a title="Advanced Sample Exam 13 June 2016" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Exams/Advanced%20Sample%20Exam%2013%20June%202016" target="_blank">Advanced Sample Exam 13 June 2016</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Exam 13 March 2016" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Exam%20Preparation/Exam%2013%20March%202016" target="_blank">Exam 13 March 2016</a></p>
+<p><a title="AdvancedExam - 19 June 2016" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Exams/AdvancedExam%20-%2019%20June%202016" target="_blank">AdvancedExam - 19 June 2016</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Exam 19 June 2016" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Exam%20Preparation/Exam%2019%20June%202016" target="_blank">Exam 19 June 2016</a></p>
+<p><a title="AdvancedRetakeExam - 22Aug2016" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Exams/AdvancedRetakeExam%20-%2022Aug2016" target="_blank">AdvancedRetakeExam - 22Aug2016</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Exam 22 August 2016" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20Advanced/Exam%20Preparation/Exam%2022%20August%202016" target="_blank">Exam 22 August 2016</a></p>
+<p><a title="Algorithms Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Exams/Algorithms%20Lab" target="_blank">Algorithms Lab</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Debugging Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Exams/Debugging%20Lab" target="_blank">Debugging Lab</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Exam 11 October 2015" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Exams/Exam%2011%20October%202015" target="_blank">Exam 11 October 2015</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam 13 March 2016" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Exams/Exam%2013%20March%202016" target="_blank">Exam 13 March 2016</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Exam 19 July 2015" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Exams/Exam%2019%20July%202015" target="_blank">Exam 19 July 2015</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam 28 February 2016" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Exams/Exam%2028%20February%202016" target="_blank">Exam 28 February 2016</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Exam 31 May 2015" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Exams/Exam%2031%20May%202015" target="_blank">Exam 31 May 2015</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam Problems Practice - 21 different Exams Solved" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Exams/Exam%20Problems%20Practice%20-%2021%20Problems" target="_blank">Exam Problems Practice - 21 different Exams Solved</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="September 9 RetakeExam 2017" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20Advanced/Exams/September%209%20RetakeExam%202017" target="_blank">September 9 RetakeExam 2017</a></p>
 </td>
 </tr>
 </tbody>
