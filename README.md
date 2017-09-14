@@ -413,32 +413,48 @@
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="Logical Checks" href="https://github.com/RAstardzhiev/SoftUni-C-Scharp/tree/master/Programming%20Basics/Simple-Conditions" target="_blank">Logical Checks</a></p>
+<p><a title="Logical Checks" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/01.%20First%20Steps%20in%20Coding" target="_blank">First Steps in Coding</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="More complex logical checks" href="https://github.com/RAstardzhiev/SoftUni-C-Scharp/tree/master/Programming%20Basics/Complex-Conditions" target="_blank">More complex logical checks</a></p>
+<p><a title="More complex logical checks" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/02.%20Simple%20Calculations" target="_blank">Simple Calculations</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Repeats (Loops)" href="https://github.com/RAstardzhiev/SoftUni-C-Scharp/tree/master/Programming%20Basics/Loops" target="_blank">Repeats (Loops)</a></p>
+<p><a title="Repeats (Loops)" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/03.%20Primitive%20Data%20Types%20and%20Variables" target="_blank">Primitive Data Types and Variables</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Advanced Loops" href="https://github.com/RAstardzhiev/SoftUni-C-Scharp/tree/master/Programming%20Basics/Advanced-Loops" target="_blank">Advanced Loops</a></p>
+<p><a title="Advanced Loops" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/04.%20Console%20Input-Output" target="_blank">Console Input-Output</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Drawing Shapes with Loops" href="https://github.com/RAstardzhiev/SoftUni-C-Scharp/tree/master/Programming%20Basics/Draw-with-Loops" target="_blank">Drawing Shapes with Loops</a></p>
+<p><a title="Drawing Shapes with Loops" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/05.%20Operators%20Expresions%20Statement" target="_blank">Operators Expresions Statement</a></p>
 </td>
 <td colspan="2" width="50%">&nbsp;</td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Exam Preparation" href="https://github.com/RAstardzhiev/SoftUni-C-Scharp/tree/master/Programming%20Basics/Last%20Exams" target="_blank">Exam Preparation</a></p>
+<p><a title="Exam Preparation" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/06.%20Simple%20Conditions" target="_blank">Simple Conditions</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Practical Entrance Exam" href="https://github.com/RAstardzhiev/SoftUni-C-Scharp/tree/master/Programming%20Basics/Exam%20Programming%20Basics" target="_blank">Practical Entrance Exam</a></p>
+<p><a title="Practical Entrance Exam" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/07.%20Conditional%20Statements" target="_blank">Conditional Statements</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam Preparation" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/08.%20Loops" target="_blank">Loops</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Practical Entrance Exam" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/09.%20Advanced%20Loops%20Exercises" target="_blank">Advanced Loops Exercises</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam Preparation" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/10.%20Drawing%20Figures%20With%20Loops" target="_blank">Drawing Figures With Loops</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Practical Entrance Exam" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/Exams" target="_blank">Exams</a></p>
 </td>
 </tr>
 </tbody>
