@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26020.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sino The Walker", "01. Sino The Walker\01. Sino The Walker.csproj", "{4F51F81C-709A-49C9-9DB0-F926951051AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SoftuniKaraoke", "02. SoftuniKaraoke\02. SoftuniKaraoke.csproj", "{C32B7180-290C-4722-A93C-A69A60E337DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. EnduranceRally", "03. EnduranceRally\03. EnduranceRally.csproj", "{4863F2E5-F113-4ED6-875E-66ACCC01A52A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. WinningTicket", "04. WinningTicket\04. WinningTicket.csproj", "{EB50ECF2-505D-4C22-9148-1EF2D21DA179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F51F81C-709A-49C9-9DB0-F926951051AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F51F81C-709A-49C9-9DB0-F926951051AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F51F81C-709A-49C9-9DB0-F926951051AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F51F81C-709A-49C9-9DB0-F926951051AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32B7180-290C-4722-A93C-A69A60E337DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32B7180-290C-4722-A93C-A69A60E337DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32B7180-290C-4722-A93C-A69A60E337DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32B7180-290C-4722-A93C-A69A60E337DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4863F2E5-F113-4ED6-875E-66ACCC01A52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4863F2E5-F113-4ED6-875E-66ACCC01A52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4863F2E5-F113-4ED6-875E-66ACCC01A52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4863F2E5-F113-4ED6-875E-66ACCC01A52A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB50ECF2-505D-4C22-9148-1EF2D21DA179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB50ECF2-505D-4C22-9148-1EF2D21DA179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB50ECF2-505D-4C22-9148-1EF2D21DA179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB50ECF2-505D-4C22-9148-1EF2D21DA179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
