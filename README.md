@@ -245,16 +245,16 @@
 <!-- Software Technologies Start --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
-<tr><th align="center" width="50%">Software Technologies - February 2017: <br /> 27.02.2017 - 29.04..2017</th><th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 06/05/2017</th><th align="center width=">
-<p><a title="Software Technologies" href="https://softuni.bg/certificates/details/19161/62f0730a" target="_blank">Certificate</a></p>
+<tr><th align="center" width="50%">Software Technologies - February 2017: <br /> 27.02.2017 - 29.04.2017</th><th width="40%">Grade: <br /> Issue Date: </th><th align="center width=">
+<p><a title="Software Technologies" href="" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="PHP First Steps - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Software%20Technologies/PHP/PHP%20First%20Steps%20-%20Lab" target="_blank">PHP First Steps - Lab</a></p>
+<p><a title="PHP First Steps - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Software-Technologies/PHP/PHP%20First%20Steps%20-%20Lab" target="_blank">PHP First Steps - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="PHP First Steps - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Software%20Technologies/PHP/PHP%20First%20Steps%20-%20Exercises" target="_blank">PHP First Steps - Exercises</a></p>
+<p><a title="PHP First Steps - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Software-Technologies/PHP/PHP%20FirstSteps-Exercises" target="_blank">PHP First Steps - Exercises</a></p>
 </td>
 </tr>
 <tr>
@@ -264,41 +264,32 @@
 </tr>
 <tr>
 <td width="50%">
-<p><a title="JavaScript - Syntax, Basic Web - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Software%20Technologies/JavaScript/JavaScript%20-%20Syntax%2C%20Basic%20Web%20-%20Lab" target="_blank">JavaScript - Syntax, Basic Web - Lab</a></p>
+<p><a title="JavaScript - Syntax, Basic Web - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Software-Technologies/Javascript/JS%20Syntax%20Lab" target="_blank">JavaScript - Syntax, Basic Web - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="JavaScript Basics - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Software%20Technologies/JavaScript/JavaScript%20Basics%20-%20Exercises" target="_blank">JavaScript Basics - Exercises</a></p>
+<p><a title="JavaScript Basics - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Software-Technologies/Javascript/JS-Syntax-Exercises" target="_blank">JavaScript Basics - Exercises</a></p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p><strong>JavaScript: ExpressJS</strong> - building a simple blog with basic Admin and User functionality. It is not uploaded here (in GitHub) with the aim to avoid overloading their server.</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<p><a title="Java Basics - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Software%20Technologies/Java/Java%20Basics%20-%20Lab" target="_blank">Java Basics - Lab</a></p>
-</td>
-<td colspan="2" width="50%">
-<p><a title="Java Basics - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Software%20Technologies/Java/Java%20Basics%20-%20Exercises" target="_blank">Java Basics - Exercises</a></p>
+<p><a title="JavaScript: ExpressJS" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Software-Technologies/Javascript/ExpressJS%20Calculator" target="_blank">building a simple blog with basic Admin and User functionality.</a></p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p><a title="Java: Spring MVC" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Software%20Technologies/Java/Simple%20Blog" target="_blank">Java: Spring MVC</a> - simple blog with basic Admin and User functionality</p>
+<p><a title="Java" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Software-Technologies/Java%20Exercises" target="_blank">Java Exercises</a></p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p><a title="HTML5 and CSS" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Software-Technologies/HTML5%20and%20CSS" target="_blank">HTML5 and CSS Exercises</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="C#: Calculator" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Software%20Technologies/C%23/Calculator" target="_blank">C#: Calculator</a> - semple web calculator</p>
+<p><a title="C# ASP.NET MVC Blog" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Software-Technologies/C%23%20ASP.NET%20MVC%20Blog" target="_blank">C# ASP.NET MVC Blog</a></p>
 </td>
 <td colspan="2" width="50%">&nbsp;</td>
-</tr>
-<tr>
-<td colspan="3">
-<p><a title="C#: ASP.NET MVC" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/Software%20Technologies/C%23/Blog" target="_blank">C#: ASP.NET MVC</a> - Blog</p>
-<p>Evaluation made upon a defence over this project in ftont of SoftUni's team</p>
-</td>
 </tr>
 </tbody>
 </table>
@@ -307,7 +298,7 @@
 <!-- Programming Fundamentals Start --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
-<tr><th align="center" width="50%">Programming Fundamentals Extended - януари 2017: <br /> 16.01.2017 - 24.03.2017</th><th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 24/05/2017</th><th align="center width=">
+<tr><th align="center" width="50%">Programming Fundamentals - януари 2017: <br /> 16.01.2017 - 24.02.2017</th><th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 24/05/2017</th><th align="center width=">
 <p><a title="Programming Basics" href="https://softuni.bg/certificates/details/20113/f3ee9e3b" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
