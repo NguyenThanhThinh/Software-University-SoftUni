@@ -1,0 +1,3 @@
+BACKUP DATABASE SoftUni
+TO DISK = 'F:\SoftUni-BackUp.BAK'
+GO
