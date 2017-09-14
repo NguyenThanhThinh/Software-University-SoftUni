@@ -7,7 +7,7 @@
 <h1><a href="https://softuni.bg/">SoftUni</a></h1>
 <h2>C#</h2>
 </td>
-<td align="center" width="33%"><img src="" alt="" />
+<td align="center" width="33%"><img src="https://avatars1.githubusercontent.com/u/25548429?v=4&u=6251187fa3982cc79485468a3adc8a67b876cace&s=400" alt="" />
 <p>Author: <strong>Sevdalin Paunov</strong></p>
 </td>
 </tr>
