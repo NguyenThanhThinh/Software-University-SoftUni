@@ -407,8 +407,8 @@
 <!-- Programming Basics Start --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
-<tr><th align="center" width="50%">Programming Basics - September 2016: <br /> 17.09.2016 - 20.11..2016</th><th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 22/11/2016</th><th align="center width=">
-<p><a title="Programming Basics" href="https://softuni.bg/certificates/details/15477/8823af04" target="_blank">Certificate</a></p>
+<tr><th align="center" width="50%">Programming Basics - September 2016: <br /> 16.01.2016 - 24.04.2016</th><th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 05/05/2016</th><th align="center width=">
+<p><a title="Programming Basics" href="https://softuni.bg/certificates/details/9507/72cc8768" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
