@@ -431,31 +431,31 @@
 <td width="50%">
 <p><a title="Drawing Shapes with Loops" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/05.%20Operators%20Expresions%20Statement" target="_blank">Operators Expresions Statement</a></p>
 </td>
-<td colspan="2" width="50%">&nbsp;</td>
-</tr>
-<tr>
-<td width="50%">
+<td colspan="2" width="50%">
 <p><a title="Exam Preparation" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/06.%20Simple%20Conditions" target="_blank">Simple Conditions</a></p>
 </td>
-<td colspan="2" width="50%">
+</tr>
+<tr>
+<td width="50%">
 <p><a title="Practical Entrance Exam" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/07.%20Conditional%20Statements" target="_blank">Conditional Statements</a></p>
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td colspan="2" width="50%">
 <p><a title="Exam Preparation" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/08.%20Loops" target="_blank">Loops</a></p>
 </td>
-<td colspan="2" width="50%">
+</tr>
+<tr>
+<td width="50%">
 <p><a title="Practical Entrance Exam" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/09.%20Advanced%20Loops%20Exercises" target="_blank">Advanced Loops Exercises</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Exam Preparation" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/10.%20Drawing%20Figures%20With%20Loops" target="_blank">Drawing Figures With Loops</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Exam Preparation" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/10.%20Drawing%20Figures%20With%20Loops" target="_blank">Drawing Figures With Loops</a></p>
-</td>
-<td colspan="2" width="50%">
 <p><a title="Practical Entrance Exam" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Programming-Basics/Exams" target="_blank">Exams</a></p>
 </td>
+<td colspan="2" width="50%">&nbsp;</td>
 </tr>
 </tbody>
 </table>
