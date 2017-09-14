@@ -272,7 +272,7 @@
 </tr>
 <tr>
 <td colspan="3">
-<p><a title="JavaScript: ExpressJS" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Software-Technologies/Javascript/ExpressJS%20Calculator" target="_blank">building a simple blog with basic Admin and User functionality.</a></p>
+<p><a title="JavaScript: ExpressJS" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Software-Technologies/Javascript/ExpressJS%20Calculator" target="_blank">JavaScript: ExpressJS - Building a simple blog with basic Admin and User functionality.</a></p>
 </td>
 </tr>
 <tr>
