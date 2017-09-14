@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26020.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Jedi Meditation", "01. Jedi Meditation\01. Jedi Meditation.csproj", "{28E877FB-64FE-4784-967C-9F07E8A87423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Jedi Galaxy", "02. Jedi Galaxy\02. Jedi Galaxy.csproj", "{3A0FEE40-F45D-4E8C-8DCC-50FBA3E2FB11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Jedi Code-X", "03. Jedi Code-X\03. Jedi Code-X.csproj", "{CB5E7334-0C5F-4E96-9A2B-65D8577476E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Jedi Dreams", "04. Jedi Dreams\04. Jedi Dreams.csproj", "{E5F1457E-6C90-4D8F-A6E8-A00F5A1DD563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E877FB-64FE-4784-967C-9F07E8A87423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E877FB-64FE-4784-967C-9F07E8A87423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E877FB-64FE-4784-967C-9F07E8A87423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E877FB-64FE-4784-967C-9F07E8A87423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0FEE40-F45D-4E8C-8DCC-50FBA3E2FB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0FEE40-F45D-4E8C-8DCC-50FBA3E2FB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0FEE40-F45D-4E8C-8DCC-50FBA3E2FB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0FEE40-F45D-4E8C-8DCC-50FBA3E2FB11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB5E7334-0C5F-4E96-9A2B-65D8577476E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5E7334-0C5F-4E96-9A2B-65D8577476E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB5E7334-0C5F-4E96-9A2B-65D8577476E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB5E7334-0C5F-4E96-9A2B-65D8577476E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F1457E-6C90-4D8F-A6E8-A00F5A1DD563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F1457E-6C90-4D8F-A6E8-A00F5A1DD563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F1457E-6C90-4D8F-A6E8-A00F5A1DD563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F1457E-6C90-4D8F-A6E8-A00F5A1DD563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

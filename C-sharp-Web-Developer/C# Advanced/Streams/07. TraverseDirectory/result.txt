@@ -1,0 +1,6 @@
+.csproj
+--07. TraverseDirectory.csproj - 2361kb
+.cs
+--TraverseDirectory.cs - 2051kb
+.config
+--App.config - 189kb
