@@ -103,47 +103,47 @@
 <tbody>
 <tr><th align="center" width="50%">C# OOP Basics - June 2017: <br /> 
 27.06.2017 - 16.07.2017</th><th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 22/07/2017</th><th align="center width=">
-<p><a title="C# OOP Basics" href="https://softuni.bg/certificates/details/21693/000a71a8" target="_blank">Certificate</a></p>
+<p><a title="C# OOP Basics" href="https://softuni.bg/certificates/details/21633/730d3af3" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="Defining Classes - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Basics/Defining%20Classes%20-%20Lab" target="_blank">Defining Classes - Lab</a></p>
+<p><a title="Defining Classes - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Basics/01.1.%20DefiningClasses-Lab" target="_blank">Defining Classes - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Defining Classes - Exercise" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Basics/Defining%20Classes%20-%20Exercise" target="_blank">Defining Classes - Exercise</a></p>
+<p><a title="Defining Classes - Exercise" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Basics/01.%20DefiningClasses" target="_blank">Defining Classes - Exercise</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Encapsulation - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Basics/Encapsulation%20-%20Lab" target="_blank">Encapsulation - Lab</a></p>
+<p><a title="Methods" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Basics/02.%20Methods" target="_blank">Methods</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Encapsulation - Exercise" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Basics/Encapsulation%20-%20Exercise" target="_blank">Encapsulation - Exercise</a></p>
+<p><a title="StaticMembers" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Basics/03.%20StaticMembers" target="_blank">StaticMembers</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Inheritance - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Basics/Inheritance%20-%20Lab" target="_blank">Inheritance - Lab</a></p>
+<p><a title="Encapsulation - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Basics/04.1.%20Encapsulation%20-%20Lab" target="_blank">Encapsulation - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Inheritance - Exercise" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Basics/Inheritance%20-%20Exercise" target="_blank">Inheritance - Exercise</a></p>
+<p><a title="Encapsulation - Exercise" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Basics/04.%20Encapsulation" target="_blank">Encapsulation - Exercise</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Polymorphism - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Basics/Polymorphism%20-%20Lab" target="_blank">Polymorphism - Lab</a></p>
+<p><a title="Inheritance - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Basics/05.01.%20Inheritance%20-%20Lab" target="_blank">Inheritance - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Polymorphism - Exercise" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Basics/Polymorphism%20-%20Exercise" target="_blank">Polymorphism - Exercise</a></p>
+<p><a title="Inheritance - Exercise" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Basics/05.%20Inheritance" target="_blank">Inheritance - Exercise</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Exam Preparation" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Basics/Exam%20Preparation" target="_blank">Exam Preparation</a></p>
+<p><a title="Polymorphism - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Basics/06.01.%20Polymorphism%20-%20Lab" target="_blank">Polymorphism - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Exam" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Basics/Exam" target="_blank">Exam</a></p>
+<p><a title="Polymorphism - Exercise" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Basics/06.%20Polymorphism" target="_blank">Polymorphism - Exercise</a></p>
 </td>
 </tr>
 </tbody>
