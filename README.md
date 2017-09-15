@@ -86,12 +86,21 @@
 <p><a title="Object Communication and Events - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/08.%20Obj%20Communic%20and%20Events" target="_blank">Object Communication and Events - Exercises</a></p>
 </td>
 </tr>
+<tr><td colspan="3" align="center" width="100%"><p>Exam Preparation</p></td></tr>
 <tr>
 <td width="50%">
-<p><a title="Exam Preparation" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/Exams" target="_blank">Exam Preparation</a></p>
+<p><a title="Exam Preparation - Hell" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/Exams/Hell" target="_blank">Exam Preparation - Hell</a></p>
 </td>
 <td colspan="2" width="50%">
-<p>Exam</p>
+<p><a title="Exam Preparation - The Last Army" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/Exams/The%20Last%20Army%20-%20Solved" target="_blank">Exam Preparation - The Last Army</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam OOP Advanced Mindcraft" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/Exams/OOP%20Advanced%20Retake%2009-07-2017%20Mindcraft" target="_blank">Exam OOP Advanced Mindcraft</a></p>
+</td>
+<td colspan="2" width="50%">
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
