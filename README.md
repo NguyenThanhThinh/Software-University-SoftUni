@@ -24,58 +24,58 @@
 <!-- Course Body -->
 <tr>
 <td width="50%">
-<p><a title="Interfaces and Abstraction - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Interfaces%20and%20Abstraction%20-%20Lab" target="_blank">Interfaces and Abstraction - Lab</a></p>
+<p><a title="Interfaces and Abstraction - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/01.1.%20Interfaces%20and%20Abstraction%20-%20Lab" target="_blank">Interfaces and Abstraction - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Interfaces and Abstraction - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Interfaces%20and%20Abstraction%20-%20Exercises" target="_blank">Interfaces and Abstraction - Exercises</a></p>
+<p><a title="Interfaces and Abstraction - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/01.%20Interfaces%20and%20Abstraction" target="_blank">Interfaces and Abstraction - Exercises</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Generics - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Generics%20-%20Lab" target="_blank">Generics - Lab</a></p>
+<p><a title="Generics - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/02.1.%20Generics%20-%20Lab" target="_blank">Generics - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Generics - Exercise" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Generics%20-%20Exercise" target="_blank">Generics - Exercise</a></p>
+<p><a title="Generics - Exercise" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/02.%20Generics" target="_blank">Generics - Exercise</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Iterators and Comparators - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Iterators%20and%20Comparators%20-%20Lab/01.%20Library" target="_blank">Iterators and Comparators - Lab</a></p>
+<p><a title="Iterators and Comparators - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/03.1.%20IteratorsComparat%20-%20Lab" target="_blank">Iterators and Comparators - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Iterators and Comparators - Exercise" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Iterators%20and%20Comparators%20-%20Exercise" target="_blank">Iterators and Comparators - Exercise</a></p>
+<p><a title="Iterators and Comparators - Exercise" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/03.%20Iterators%20and%20Comparators" target="_blank">Iterators and Comparators - Exercise</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Enumerations and Attributes - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Enumerations%20and%20Attributes%20-%20Lab" target="_blank">Enumerations and Attributes - Lab</a></p>
+<p><a title="Enumerations and Attributes - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/04.1.%20Enums%20Attributes%20-%20Lab" target="_blank">Enumerations and Attributes - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Enumerations and Attributes - Exercise" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Enumerations%20and%20Attributes%20-%20Exercise" target="_blank">Enumerations and Attributes - Exercise</a></p>
+<p><a title="Enumerations and Attributes - Exercise" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/04.%20Enums%20and%20Attributes" target="_blank">Enumerations and Attributes - Exercise</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Reflection - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Reflection%20-%20Lab" target="_blank">Reflection - Lab</a></p>
+<p><a title="Reflection - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/05.1.%20Reflection%20-%20Lab" target="_blank">Reflection - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Reflection - Exercise" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Reflection%20-%20Exercise" target="_blank">Reflection - Exercise</a></p>
+<p><a title="Reflection - Exercise" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/05.%20Reflection" target="_blank">Reflection - Exercise</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Unit Testing - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Unit%20Testing%20-%20Lab" target="_blank">Unit Testing - Lab</a></p>
+<p><a title="Unit Testing - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/06.1.Unit%20Testing%20-%20Lab" target="_blank">Unit Testing - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Unit Testing - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Unit%20Testing%20-%20Exercises" target="_blank">Unit Testing - Exercises</a></p>
+<p><a title="Unit Testing - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/06.%20Unit%20Testing" target="_blank">Unit Testing - Exercises</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="SOLID - Lab" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/SOLID%20-%20Lab" target="_blank">SOLID - Lab</a></p>
+<p><a title="SOLID - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/07.1.%20SOLID%20-%20Lab" target="_blank">SOLID - Lab</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="SOLID - Exercises (Open Closed and Liskov substitution)" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/SOLID-Open-Closed-and-Liskov%20-%20Exercises" target="_blank">SOLID - Exercises (Open Closed and Liskov substitution)</a></p>
+<p><a title="SOLID - Exercises (Open Closed and Liskov substitution)" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/07.%20SOLID" target="_blank">SOLID - Exercises (Open Closed and Liskov substitution)</a></p>
 </td>
 </tr>
 <tr>
@@ -83,12 +83,12 @@
 <p></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Object Communication and Events - Exercises" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Communication%20and%20Events%20-%20Exercises" target="_blank">Object Communication and Events - Exercises</a></p>
+<p><a title="Object Communication and Events - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/08.%20Obj%20Communic%20and%20Events" target="_blank">Object Communication and Events - Exercises</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<p><a title="Exam Preparation" href="https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Exam%20Preparation" target="_blank">Exam Preparation</a></p>
+<p><a title="Exam Preparation" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/Exams" target="_blank">Exam Preparation</a></p>
 </td>
 <td colspan="2" width="50%">
 <p>Exam</p>
