@@ -221,5 +221,5 @@ The output data should be printed on the console. You have 3 cases:
 
 ### Examples
 
-![Table](https://github.com/sevdalin/Programming-Basics/blob/master/images/43.PNG)
+![Table](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/43.PNG)
 
