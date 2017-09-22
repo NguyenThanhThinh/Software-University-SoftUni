@@ -81,7 +81,7 @@ The number has always exactly **4 digits** and cannot start with **0**. Examples
 
 Write **an expression** that checks if given point ( **x** ,   **y** ) is inside a **circle K** ({ **0** , **0** }, **2** ). Examples:
 
-![](https://github.com/sevdalin/Programming-Basics/blob/master/images/52.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/52.JPG)
 
 ### Problem 8. Prime Number Check
 
@@ -103,13 +103,13 @@ Write an **expression** that checks if given positive integer number **n** ( **n
 
 Write an expression that calculates **trapezoid&#39;s area** by given sides **a** and **b** and height **h**. Examples:
 
-![](https://github.com/sevdalin/Programming-Basics/blob/master/images/53.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/53.JPG)
 
 ### Problem 10. Point Inside a Circle &amp; Outside of a Rectangle
 
 Write an expression that checks for given point (x, y) if it is **within the circle K** ({ **1** , **1** }, **1.5** ) and **out of the rectangle R** (top= **1** , left= **-1** , width= **6** , height= **2** ). Examples:
 
-![](https://github.com/sevdalin/Programming-Basics/blob/master/images/54.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/54.JPG)
 
 ### Problem 11. Bitwise: Extract Bit #3
 
