@@ -171,7 +171,7 @@ The symbols above the impact area start **falling down until they land on other 
 
 You are given two **jagged arrays**. Each array represents a **Lego block** containing integers. Your task is first to **reverse** the second jagged array and then check if it would **fit perfectly** in the first jagged array.
 
-![Not fount]https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/8.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/8.PNG)
 
 The picture above shows exactly what fitting arrays mean. If the arrays fit perfectly you should **print out** the newly made rectangular matrix. If the arrays do not match (they do not form a rectangular matrix) you should print out the **number of cells** in the first array and in the second array combined. The examples below should help you understand more the assignment.
 
