@@ -24,7 +24,7 @@ Write a program that creates an array containing all letters from the alphabet (
 
 ### Examples
 
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/12.%20Files%20And%20Exceptions/Images/2.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/12.%20Files%20And%20Exceptions/Images/2.JPG)
 
 ### 3. Equal Sums
 
@@ -32,7 +32,7 @@ Write a program that determines if there **exists an element in the array** such
 
 ### Examples
 
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/12.%20Files%20And%20Exceptions/Images/3.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/12.%20Files%20And%20Exceptions/Images/3.JPG)
 
 ### 4. Max Sequence of Equal Elements
 
@@ -63,7 +63,7 @@ The quantities inputs will be in the range [1 … 2 000 000 000]
 
 ### Examples
 
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/12.%20Files%20And%20Exceptions/Images/5.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/12.%20Files%20And%20Exceptions/Images/5.JPG)
 
 ### 6. Fix Emails
 
@@ -165,7 +165,7 @@ Books in the input will be in format **{title} {author} {publisher} {release dat
 ### Hints
 
 - Create classes **Book** and **Library** with all the mentioned above properties: 
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/12.%20Files%20And%20Exceptions/Images/9.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/12.%20Files%20And%20Exceptions/Images/9.JPG)
 - **Create** an object of type **Library**.
 - **Read the input** and create a **Book** object for each book in the input.
 - Create a **LINQ** query that will **sum the prices by author** , **order the results** as requested.
