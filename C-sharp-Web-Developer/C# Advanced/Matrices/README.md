@@ -36,7 +36,7 @@ Write a program to generate and print the following **matrix of palindromes** of
 
 Write a program that finds the **difference between the sums of the square matrix diagonals** (absolute value).
 
-![Not fount](https://github.com/sevdalin/C-sharp-Web-Developer/blob/master/C%23%20Advanced/images/3.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/3.PNG)
 
 ### Input
 
@@ -89,17 +89,17 @@ Write a program that reads a rectangular integer matrix of size  **N x M**  and 
 
 | **Input** | **Matrix** | **Output** |
 | --- | --- | --- |
-| 4 5 <br/> 1 5 5 2 4 <br/> 2 1 4 14 3 <br/> 3 7 11 2 8 <br/> 4 8 12 16 4 | ![Not fount](https://github.com/sevdalin/C-sharp-Web-Developer/blob/master/C%23%20Advanced/images/4.PNG)| Sum = 75 <br/> 1 4 14 <br/> 7 11 2 <br/> 8 12 16 |
+| 4 5 <br/> 1 5 5 2 4 <br/> 2 1 4 14 3 <br/> 3 7 11 2 8 <br/> 4 8 12 16 4 | ![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/4.PNG)| Sum = 75 <br/> 1 4 14 <br/> 7 11 2 <br/> 8 12 16 |
 
 ## Problem 5. Rubik&#39;s Matrix
 
 Rubik&#39;s cube – everyone&#39;s favorite head-scratcher. Writing a program to solve it will be quite a difficult task for an exam, though. Instead, we have a Rubik&#39;s matrix prepared for you. You will be given a pair of dimensions: **R** and **C.** To prepare the matrix, fill each row with increasing integers, starting from one. For example, **2 x 4** matrix must look like this:
 
-![Not fount](https://github.com/sevdalin/C-sharp-Web-Developer/blob/master/C%23%20Advanced/images/5.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/5.PNG)
 
 Next, you will receive series of commands, indicating which row or column you must move, in which direction, and how many times. For example, **1 up 1** means: column 1, direction: up, 1 move. After executing it, the matrix should look like:
 
-![Not fount](https://github.com/sevdalin/C-sharp-Web-Developer/blob/master/C%23%20Advanced/images/6.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/6.PNG)
 
 Directions **left** and **right** means you must move the corresponding **row** , while **up** and **down** are related to the **columns.** After shuffling the Rubik&#39;s matrix, you have to **rearrange** it (meaning that the **values in each cell** should be in **increasing order** , such as the ones in the original matrix). The rearranging process should start at **top-left** and end at **bottom-right**. Find the **position** of the value you need, and print the **swap** **command** on the console, in the format described below.
 
@@ -165,13 +165,13 @@ The symbols above the impact area start **falling down until they land on other 
 | --- | --- | 
 | 5 6  <br/> SoftUni <br/> 2 3 2 | O <br/> US&nbsp;&nbsp;&nbsp;t <br/> tn&nbsp;&nbsp;&nbsp;f <br/> iSi&nbsp;UU <br/> nUt&nbsp;oS |
 
-![Not fount](https://github.com/sevdalin/C-sharp-Web-Developer/blob/master/C%23%20Advanced/images/7.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/7.PNG)
 
 ## Problem 7. Lego Blocks
 
 You are given two **jagged arrays**. Each array represents a **Lego block** containing integers. Your task is first to **reverse** the second jagged array and then check if it would **fit perfectly** in the first jagged array.
 
-![Not fount](https://github.com/sevdalin/C-sharp-Web-Developer/blob/master/C%23%20Advanced/images/8.PNG)
+![Not fount]https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/8.PNG)
 
 The picture above shows exactly what fitting arrays mean. If the arrays fit perfectly you should **print out** the newly made rectangular matrix. If the arrays do not match (they do not form a rectangular matrix) you should print out the **number of cells** in the first array and in the second array combined. The examples below should help you understand more the assignment.
 
@@ -271,7 +271,7 @@ The **input ends** when you receive the command &quot;Nuke it from orbit&quot;. 
 
 | **Input** | **Output** | **Comment** |
 | --- | --- | --- |
-| 5 5 <br/> 3 3 2 <br/> 4 3 2 <br/> Nuke it from orbit | 1 2 3 4 5 <br/> 6 7 8 10 <br/> 11 12 13 <br/> 16 <br/> 21 | ![Not fount](https://github.com/sevdalin/C-sharp-Web-Developer/blob/master/C%23%20Advanced/images/9.PNG) |
+| 5 5 <br/> 3 3 2 <br/> 4 3 2 <br/> Nuke it from orbit | 1 2 3 4 5 <br/> 6 7 8 10 <br/> 11 12 13 <br/> 16 <br/> 21 | ![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/9.PNG) |
 
 | **Input** | **Output** |
 | --- | --- |
@@ -325,7 +325,7 @@ The parking lot in front of SoftUni is one of the busiest in the country, and it
 
 The parking lot is a **rectangular** matrix where the **first** column is **always** free and all other cells are parking spots. A car can enter from **any cell** of the **first column** and then decides to go to a specific spot. If that spot is **not** free, the car searches for the **closest** free spot on the **same** row. If **all** the cells on that specific row are used, the car cannot park and leaves. If **two** free cells are located at the **same** distance from the **initial** parking spot, the cell which is **closer** to the entrance is preferred. A car can **pass** through a used parking spot.
 
-![Not fount](https://github.com/sevdalin/C-sharp-Web-Developer/blob/master/C%23%20Advanced/images/10.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/10.PNG)
 
 Your task is to calculate the distance travelled by each car to its parking spot.
 
@@ -359,7 +359,7 @@ Example: A car enters the parking at row 1. It wants to go to cell 2, 2 so it mo
 
 You are given a **sequence of text lines**. Assume these text lines form a **matrix of characters** (pad the missing positions with spaces to build a rectangular matrix). Write a program to **rotate the matrix** by 90, 180, 270, 360, … degrees. Print the result at the console as sequence of strings. Examples:
 
-![Not fount](https://github.com/sevdalin/C-sharp-Web-Developer/blob/master/C%23%20Advanced/images/11.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/11.PNG)
 
 ### Input
 
