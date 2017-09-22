@@ -32,11 +32,11 @@ It is up to you what type of data structures you will use to solve this problem
 
 First row is **easy** , but long.
 
-![Not fount](/C%23Fundamentals/Advanced-CSharp/images/12.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/12.PNG)
 
 Data rows are something terrible:
 
-![Not fount](/C%23Fundamentals/Advanced-CSharp/images/13.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/13.PNG)
 
 ## 2.Parse URLs
 
