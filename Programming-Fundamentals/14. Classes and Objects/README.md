@@ -62,9 +62,9 @@ The input lines will be in format: **{X} {Y} {Radius}**. Print as output **“Ye
 
 | **Input**| **Output**|**Visualization**|
 |---|---|---|
-|4 4 2 <br/> 8 8 1	|No|![Not fount](https://github.com/sevdalin/Programming-Fundamentals/blob/master/14.%20Classes%20and%20Objects/Images/3.JPG)|
-|3 3 2 <br/> 4 3 6	|Yes|![Not fount](https://github.com/sevdalin/Programming-Fundamentals/blob/master/14.%20Classes%20and%20Objects/Images/3.1.JPG)|
-|1 1 4 <br/> 4 2 5	|Yes|![Not fount](https://github.com/sevdalin/Programming-Fundamentals/blob/master/14.%20Classes%20and%20Objects/Images/3.2.JPG)|
+|4 4 2 <br/> 8 8 1	|No|![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/14.%20Classes%20and%20Objects/Images/3.JPG)|
+|3 3 2 <br/> 4 3 6	|Yes|![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/14.%20Classes%20and%20Objects/Images/3.1.JPG)|
+|1 1 4 <br/> 4 2 5	|Yes|![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/14.%20Classes%20and%20Objects/Images/3.2.JPG)|
 
 > #### Hints
 > - Calculate **d = distance between the circle centers**.
@@ -101,7 +101,7 @@ Books in the input will be in format **{title} {author} {publisher} {release dat
 > #### Hints
 > - Create classes **Book** and **Library** with all the mentioned above properties: 
 
-![Not fount](https://github.com/sevdalin/Programming-Fundamentals/blob/master/14.%20Classes%20and%20Objects/Images/5.JPG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/14.%20Classes%20and%20Objects/Images/5.JPG)
 
 > - **Create** an object of type **Library**.
 > - **Read the input** and create a **Book** object for each book in the input.
@@ -142,7 +142,7 @@ First you will receive an integer - the **amount** of entities with prices (sepa
 > - Save all customers that their wanted item is **actually in the shop** into a **list**. For every customer go through his “shop list” and **add “price*quantity”** to his Bill.
 > - For printing every customer you can iterate through every object.
 
-![Not fount](https://github.com/sevdalin/Programming-Fundamentals/blob/master/14.%20Classes%20and%20Objects/Images/7.JPG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/14.%20Classes%20and%20Objects/Images/7.JPG)
 
 > - **Print** result.
 
