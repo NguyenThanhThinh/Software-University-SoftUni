@@ -134,7 +134,7 @@ For each row of the input, the query string contains pairs field=value. Within e
 
 ### 5. \*Use Your Chains, Buddy
 
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/11.%20Regular%20Expressions/Images/5.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/11.%20Regular%20Expressions/Images/5.JPG)
 
 ### Input
 
