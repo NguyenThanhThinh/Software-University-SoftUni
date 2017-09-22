@@ -286,7 +286,7 @@
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">Software Technologies - February 2017: <br /> 27.02.2017 - 29.04.2017</th><th width="40%">Grade: <br /> Issue Date: </th><th align="center width=">
-<p><a title="Software Technologies" href="" target="_blank">Certificate</a></p>
+<p>Certificate</p>
 </th></tr>
 <!-- Course Body -->
 <tr>
