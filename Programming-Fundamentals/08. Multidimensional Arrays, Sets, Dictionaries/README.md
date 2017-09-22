@@ -4,7 +4,7 @@
 
 Write two programs that **fill** and print a **matrix** of size  **N x N**. Filling a matrix in the regular pattern ( **top to bottom** and **left to right** ) is boring. Fill the matrix as described in both patterns below:
 
- ![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/1.JPG)
+ ![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/1.JPG)
 
 ### Problem 3. Maximal Sum
 
@@ -14,7 +14,7 @@ On the first line, you will receive the rows **N** and columns **M**. On the nex
 
 Print the **elements** of the 3 x 3 square as a matrix, along with their **sum**.
 
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/2.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/2.JPG)
 
 ### Problem 4. Matrix shuffling
 
@@ -24,13 +24,13 @@ Your program should then receive commands in format: &quot;swap row1 col1 row2c 
 
 If the command is not valid (doesn&#39;t contain the keyword &quot;swap&quot;, has fewer or more coordinates entered or the given coordinates do not exist), print &quot;Invalid input!&quot; and move on to the next command. Your program should finish when the string &quot;END&quot; is entered. Examples:
 
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/3.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/3.JPG)
 
 ### Problem 5. Sequence in Matrix
 
 We are given a matrix of strings of size N x M. Sequences in the matrix we define as sets of several neighbour elements located on the same **line, column or diagonal**. Write a program that finds the longest sequence of equal strings in the matrix. Examples:
 
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/4.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/4.JPG)
 
 ### Problem 6. Collect the Coins
 
@@ -42,14 +42,14 @@ You are the player and start at the top-left corner (that would be position **[0
 
 You need to keep track of two types of events – collecting coins (represented by the symbol &#39; **$**&#39;, of course) and hitting the walls of the board (when the player tries to move off the board to invalid coordinates). When all moves are over, **print the amount of money** collected and the **number of walls hit**. Example:
 
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/5.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/5.JPG)
 
 ### Problem 7. Count Symbols
 
 Write a program that reads some text from the console and counts the occurrences of each character in it. Print the results in **alphabetical** (lexicographical) order. Examples:
 
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/6.JPG)
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/6.1.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/6.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/6.1.JPG)
 
 ### Problem 8. Phonebook
 
@@ -59,7 +59,7 @@ You are free to choose the manner in which the data is entered; each **entry** s
 
 After filling this simple phonebook, upon receiving the **command**&quot; **search**&quot;, your program should be able to perform a search of a contact by name and print her details in format &quot; **{name} -&gt; {number}**&quot;. In case the contact isn&#39;t found, print &quot; **Contact {name} does not exist.**&quot; Examples:
 
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/7.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/7.JPG)
 
 \* **Bonus:** What happens if the user enters the same name twice in the phonebook? Modify your program to keep **multiple phone** numbers per contact.
 
@@ -75,4 +75,4 @@ You&#39;ll receive the input from the console. There will be an **arbitrary** nu
 
 Print the data by **listing the cities** and for each city its **venues** (on a new line starting with &quot; **-&gt;**&quot;) and **performers** (separated by comma and space). Check the examples to get the idea. And grab a beer when you&#39;re done, you deserve it. Spiro is buying.
 
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/8.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/08.%20Multidimensional%20Arrays%2C%20Sets%2C%20Dictionaries/Images/8.JPG)
