@@ -24,20 +24,20 @@ The **text** to search in is given on the **second line**.
 > ### Hints
 > - Read the input
 
-![Not fount](/C%23Fundamentals/Advanced-CSharp/images/14.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/14.PNG)
 
 > - Create Regex object with the provided pattern
 
 
-![Not fount](/C%23Fundamentals/Advanced-CSharp/images/15.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/15.PNG)
 
 > - Count the occurrences
 
-![Not fount](/C%23Fundamentals/Advanced-CSharp/images/16.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/16.PNG)
 
 > - Finally, print the result
 
-![Not fount](/C%23Fundamentals/Advanced-CSharp/images/17.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/17.PNG)
 
 ## 2.Vowel Count
 
@@ -57,16 +57,16 @@ The vowels that you should be looking for are **upper** and **lower** **a** **,*
 
 >- Read the input
 
-![Not fount](/C%23Fundamentals/Advanced-CSharp/images/18.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/18.PNG)
 
 >- Create **Regex** object with the pattern that finds all vowels
 
-![Not fount](/C%23Fundamentals/Advanced-CSharp/images/19.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/19.PNG)
 
 > - Count the occurrences
 > - Finally, print the result
 
-![Not fount](/C%23Fundamentals/Advanced-CSharp/images/20.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/20.PNG)
 
 ## 3.Non-Digit Count
 
@@ -85,7 +85,7 @@ Find the count of all **non-digit characters** in a given text using regex.
 > - Read the input
 > - Create Regex object that matches all non-digit characters
 
-![Not fount](/C%23Fundamentals/Advanced-CSharp/images/21.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/21.PNG)
 
 > - Count the occurrences and print the result
 

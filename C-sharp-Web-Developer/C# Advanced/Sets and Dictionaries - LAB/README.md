@@ -32,7 +32,7 @@ Print the output with all car numbers which are in parking lot
 
 You might help yourself with the code below:
 
-![Not fount](https://github.com/sevdalin/C-sharp-Web-Developer/blob/master/C%23%20Advanced/images/2.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/C-sharp-Web-Developer/C%23%20Advanced/images/2.PNG)
 
 ## 2. SoftUni Party
 
