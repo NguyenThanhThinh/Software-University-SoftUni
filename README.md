@@ -18,8 +18,8 @@
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">C# OOP Advanced - July 2017: <br /> 
-18.07.2017 - 20.08.2017</th><th width="40%">Grade: <br /> Issue Date: </th><th align="center width=">
-<p>Certificate</p>
+18.07.2017 - 20.08.2017</th><th width="40%">Grade: 5.95 (out of 6.00) <br /> Issue Date: 21/09/2017</th><th align="center width=">
+<p><a title="C# OOP Advanced" href="https://softuni.bg/certificates/details/23373/4ccc928c" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
@@ -161,8 +161,8 @@
 <!-- C# Advanced Start --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
-<tr><th align="center" width="50%">C# Advanced - May 2017: <br /> 23.05.2017 - 25.06.2017</th><th width="40%">Grade: 5.78 (out of 6.00)<br /> Issue Date: </th><th align="center width=">
-<p>Certificate</p>
+<tr><th align="center" width="50%">C# Advanced - May 2017: <br /> 23.05.2017 - 25.06.2017</th><th width="40%">Grade: 5.78 (out of 6.00)<br /> Issue Date: 18/09/2017 </th><th align="center width=">
+<p><a title="C# Advanced" href="https://softuni.bg/certificates/details/23234/91542af2" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
