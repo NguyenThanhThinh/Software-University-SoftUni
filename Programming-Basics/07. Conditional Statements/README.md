@@ -114,7 +114,7 @@ Write a program that asks for a **digit** (0-9), and depending on the input,  **
 
 Write a program that, depending on the user&#39;s choice, inputs an  **int** ,  **double**  or  **string**  variable. If the variable is  **int**  or  **double** , the program increases it by one. If the variable is a  **string** , the program appends &quot; **\***&quot; at the end. Print the result at the console. Use  **switch**  statement. Example:
 
-![](https://github.com/sevdalin/Programming-Basics/blob/master/images/55.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/55.JPG)
 
 ### Problem 10. \* Beer Time
 
@@ -154,6 +154,6 @@ Write a program that **converts a number in the range [0…999] to words**, corr
 
 We are given 5 integer numbers. Write a program that finds all **subsets of these numbers whose sum is 0**. Assume that repeating the same subset several times is not a problem. Examples:
 
-![](https://github.com/sevdalin/Programming-Basics/blob/master/images/56.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/56.JPG)
 
 Hint: you may check for zero each of the 32 subsets with 32 **if** statements.

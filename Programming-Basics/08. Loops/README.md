@@ -33,9 +33,9 @@ Write a program that reads from the console a sequence of **n** integer numbers 
 
 ### Problem 4. Print a Deck of 52 Cards
 
-![](https://github.com/sevdalin/Programming-Basics/blob/master/images/57.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/57.JPG)
 
-![](https://github.com/sevdalin/Programming-Basics/blob/master/images/58.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/58.JPG)
 
 ### Problem 6. Calculate N! / K!
 
@@ -51,7 +51,7 @@ Write a program that calculates **n! / k!** for given **n** and **k** (1 &lt; **
 
 In combinatorics, the number of ways to choose **k** different members out of a group of **n** different elements (also known as the number of [**combinations**](http://en.wikipedia.org/wiki/Combination)) is calculated by the following formula:
 
-![](https://github.com/sevdalin/Programming-Basics/blob/master/images/59.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/59.JPG)
 
 For example, there are 2598960 ways to withdraw 5 cards out of a standard deck of 52 cards. Your task is to write a program that calculates **n! / (k! \* (n-k)!)** for given **n** and **k** (1 &lt; **k** &lt; **n** &lt; 100). Try to use only two loops. Examples:
 
@@ -66,7 +66,7 @@ For example, there are 2598960 ways to withdraw 5 cards out of a standard deck o
 
 In combinatorics, the [Catalan numbers](http://en.wikipedia.org/wiki/Catalan_number) are calculated by the following formula:
 
-![](https://github.com/sevdalin/Programming-Basics/blob/master/images/60.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/60.JPG)
 
 Write a program to calculate the **n**-th **Catalan number** by given **n** (1 &lt; n &lt; 100). Examples:
 
@@ -81,7 +81,7 @@ Write a program to calculate the **n**-th **Catalan number** by given **n** (1 &
 
 Write a program that reads from the console a positive integer number **n** (1 ? **n** ? 20) and **prints a matrix** like in the examples below. Use two nested loops. Examples:
 
-![](https://github.com/sevdalin/Programming-Basics/blob/master/images/61.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/61.JPG)
 
 ### Problem 10. Odd and Even Product
 
@@ -185,4 +185,4 @@ Write a program that calculates with how many zeroes the factorial of a given nu
 
 Write a program that reads from the console a positive integer number **n** (1 <= **n** <= 20) and **prints a matrix** holding the numbers from **1** to **n** \ ***n** in the form of **square spiral** like in the examples below. Examples:
 
-![](https://github.com/sevdalin/Programming-Basics/blob/master/images/62.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/62.JPG)

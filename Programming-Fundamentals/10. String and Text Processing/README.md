@@ -166,4 +166,4 @@ In case you have found at least **two** matches, and you have successfully shake
 
 ### Examples
 
-![](https://github.com/sevdalin/Programming-Fundamentals/blob/master/10.%20String%20and%20Text%20Processing/Images/9.JPG)
+![](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/10.%20String%20and%20Text%20Processing/Images/9.JPG)

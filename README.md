@@ -18,8 +18,8 @@
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">C# OOP Advanced - July 2017: <br /> 
-18.07.2017 - 20.08.2017</th><th width="40%">Grade: <br /> Issue Date: </th><th align="center width=">
-<p>Certificate</p>
+18.07.2017 - 20.08.2017</th><th width="40%">Grade: 5.95 (out of 6.00) <br /> Issue Date: 21/09/2017</th><th align="center width=">
+<p><a title="C# OOP Advanced" href="https://softuni.bg/certificates/details/23373/4ccc928c" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
@@ -86,12 +86,21 @@
 <p><a title="Object Communication and Events - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/08.%20Obj%20Communic%20and%20Events" target="_blank">Object Communication and Events - Exercises</a></p>
 </td>
 </tr>
+<tr><td colspan="3" align="center" width="100%"><p>Exam Preparation</p></td></tr>
 <tr>
 <td width="50%">
-<p><a title="Exam Preparation" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/Exams" target="_blank">Exam Preparation</a></p>
+<p><a title="Exam Preparation - Hell" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/Exams/Hell" target="_blank">Exam Preparation - Hell</a></p>
 </td>
 <td colspan="2" width="50%">
-<p>Exam</p>
+<p><a title="Exam Preparation - The Last Army" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/Exams/The%20Last%20Army%20-%20Solved" target="_blank">Exam Preparation - The Last Army</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam OOP Advanced Mindcraft" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C-sharp-Web-Developer/C%23%20OOP%20Advanced/Exams/OOP%20Advanced%20Retake%2009-07-2017%20Mindcraft" target="_blank">Exam OOP Advanced Mindcraft</a></p>
+</td>
+<td colspan="2" width="50%">
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -152,8 +161,8 @@
 <!-- C# Advanced Start --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
-<tr><th align="center" width="50%">C# Advanced - May 2017: <br /> 23.05.2017 - 25.06.2017</th><th width="40%">Grade: 5.78 (out of 6.00)<br /> Issue Date: </th><th align="center width=">
-<p>Certificate</p>
+<tr><th align="center" width="50%">C# Advanced - May 2017: <br /> 23.05.2017 - 25.06.2017</th><th width="40%">Grade: 5.78 (out of 6.00)<br /> Issue Date: 18/09/2017 </th><th align="center width=">
+<p><a title="C# Advanced" href="https://softuni.bg/certificates/details/23234/91542af2" target="_blank">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
@@ -277,7 +286,7 @@
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">Software Technologies - February 2017: <br /> 27.02.2017 - 29.04.2017</th><th width="40%">Grade: <br /> Issue Date: </th><th align="center width=">
-<p><a title="Software Technologies" href="" target="_blank">Certificate</a></p>
+<p>Certificate</p>
 </th></tr>
 <!-- Course Body -->
 <tr>

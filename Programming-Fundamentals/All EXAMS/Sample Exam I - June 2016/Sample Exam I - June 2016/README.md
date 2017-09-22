@@ -36,24 +36,24 @@ The output should be printed on the console.
 #### Solution 
 1.First, we need to read from the console 5 lines of input and parse them to the appropriate data type.
 
-![Not fount](/All%20EXAMS/Images/4.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/4.PNG)
 
 2.Calculate the Number of Portions
 To calculate the number of portions we need to divide the number of guests to 6 and round up to the nearest integer.
 
-![Not fount](/All%20EXAMS/Images/5.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/5.PNG)
 
 3.	Calculate the Needed Money
 To calculate needed money for the desserts with the formula 
 Needed money for 1 product = number of portions * quantity needed * price of the product
 We calculate that for all the 3 products and add their values.
 
-![Not fount](/All%20EXAMS/Images/6.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/6.PNG)
 
 4.	Make a Decision
 If the needed money is less or equal to the money Ivancho has we print that Ivancho has enough money otherwise we print the amount of money Ivancho need to buy products for the desert. Rounded 2 digits after the floating point.
 
-![Not fount](/All%20EXAMS/Images/7.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/7.PNG)
 
 ## 02.Array Modifier
 
@@ -94,26 +94,26 @@ On the **next lines** you will receive commands **until** you receive the **comm
 1.	Read Input
 We receive the integer numbers in a single line separated by space. So we need to split that line by space and to parse every number. Since we are going to multiply integers we can easily overflow it so we will use long data type.
 
-![Not fount](/All%20EXAMS/Images/8.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/8.PNG)
 
 2.	Command Execution Loop
 Now we need to read and execute the commands on the next lines until we receive “end” as command
 
-![Not fount](/All%20EXAMS/Images/9.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/9.PNG)
 
 Hint
 
-![Not fount](/All%20EXAMS/Images/10.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/10.PNG)
 
 3.	Helper Methods
 We could define 3 methods to make the code more readable. And every method executes the appropriate command from the input. The methods receive as parameters the sequence and the parameters from the received command
 
-![Not fount](/All%20EXAMS/Images/11.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/11.PNG)
 
 4.	Print Result
 Finally we need to print the final state of the sequence separated by a comma and space.
 
-![Not fount](/All%20EXAMS/Images/12.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/12.PNG)
 
 ## 03.Target Multiplier
 
@@ -152,35 +152,35 @@ Solution
 1.	Read Input
 First of all we need to read the input. On the first line we receive the dimensions of the matrix
 
-![Not fount](/All%20EXAMS/Images/13.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/13.PNG)
 
 
 Now we need to define a structure that will hold our array and fill it with values.
 
-![Not fount](/All%20EXAMS/Images/14.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/14.PNG)
 
 Last thing that left to read from the input is the location of the target cell.
 
-![Not fount](/All%20EXAMS/Images/15.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/15.PNG)
 
 2.	Calculate Sum of Neighbor Cells
 We need set start and end indexes for the rows and cols for target cell neighbors
 
-![Not fount](/All%20EXAMS/Images/16.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/16.PNG)
 
 No we should find the sum of the neighbors of the target cell.
 
-![Not fount](/All%20EXAMS/Images/17.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/17.PNG)
 
 3.	Change Value of Target Cell and Its Neighbors
 Now we need to keep the original value of the target cell
 
-![Not fount](/All%20EXAMS/Images/18.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/18.PNG)
 
 4.	Print Result
 Finally, we print the matrix.
 
-![Not fount](/All%20EXAMS/Images/19.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/19.PNG)
 
 ## 04.Population Aggregation
 
@@ -226,34 +226,34 @@ In case of **repeating towns**, count the last seen population for each town (ig
 1.	 Read Input
 Firstly we need to create a loop that will read commands from the console until it receives command “stop”. Every line is split by back slash.
 
-![Not fount](/All%20EXAMS/Images/20.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/20.PNG)
 
 2.Get Country And City From Input
 Now we should decide which element of the commandArgs array is the country and which the city is. To decide we must check if the first letter of the first argument is in upper case. If it is the first argument is the country and the second is the city. Otherwise the first element is the city and the second element is the country
 
-![Not fount](/All%20EXAMS/Images/21.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/21.PNG)
 
 3.Remove Prohibited Symbols
 We could easily do that by replacing the prohibited symbols with an empty string.
 
-![Not fount](/All%20EXAMS/Images/22.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/22.PNG)
 
 4.	 Add Information to The Appropriate Data Structure
 We now need to define 2 data structures that will keep the information we need. First data structure will keep information about countries and cities count ordered alphabetically. The second data structure will keep information about city and its population. We can use SortedDictionary<string, int> and Dictionary<string, long>
 
-![Not fount](/All%20EXAMS/Images/23.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/23.PNG)
 
 Let’s add the data to the appropriate dictionaries. To the first dictionary if the country does not exists in it we add it and set its counter to 1 otherwise we increment the value with 1. And on the second structure we just add the city as key and its population as value.
 
-![Not fount](/All%20EXAMS/Images/24.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/24.PNG)
 
 5.	 Print Countries
 Just print all the data that is in the sorted dictionary
 
-![Not fount](/All%20EXAMS/Images/25.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/25.PNG)
 
 6. Print Biggest 3 Cities by Population
 Now we should sort the dictionary containing cities name by their population in descending order and take first 3 elements and print their information
 
-![Not fount](/All%20EXAMS/Images/26.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Fundamentals/All%20EXAMS/Images/26.PNG)
 

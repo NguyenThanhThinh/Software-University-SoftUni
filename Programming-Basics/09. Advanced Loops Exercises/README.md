@@ -6,7 +6,7 @@
 
 1.Създайте празно решение ( **Blank** **Solution**) във Visual Studio за да организирате кода от задачите за упражнение. Целта на този**blank solution **e да съдържа** по един проект за ****всяка задача** от упражненията.
 
-![Not fount](https://github.com/sevdalin/Programming-Basics/blob/master/images/63.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/63.PNG)
 
 2. Задайте **да се стартира по подразбиране текущия проект** (не първият в решението). Кликнете с десен бутон на мишката върху **Solution &#39;Advanced-Loops&#39;**** [Set StartUp Projects…]****[Current selection]**.
 
@@ -24,11 +24,11 @@
 > 2. Можете да завъртите **for** - ****цикъл със стъпка**** 3 **по следния начин:** for (var i ****=**** 1; i ****&lt;=**** n; i+=3).
 > 3. Отидете в тялото на метода **Main(string [] args)** и напишете решението на задачата. Можете да си помогнете с кода от картинката по-долу:
 
-![Not fount](https://github.com/sevdalin/Programming-Basics/blob/master/images/64.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/64.PNG)
 
 > 4. **Стартирайте** програмата с [Ctrl+F5] и я **тествайте** :
 
-![Not fount](https://github.com/sevdalin/Programming-Basics/blob/master/images/65.PNG)
+![Not fount](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/65.PNG)
 
 > 5. **Тествайте** решението си в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/156#0](https://judge.softuni.bg/Contests/Practice/Index/156#0). Трябва да получите **100 точки** (напълно коректно решение).
 

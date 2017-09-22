@@ -55,31 +55,31 @@ Write a program that gets **two numbers** from the console and prints the greate
 
 Write a program that reads 3 numbers: an integer **a** (0 ? **a** ? 500), a floating-point **b** and a floating-point **c** and **prints them in**  **4**  **virtual columns**  on the console. Each column should have a width of 10 characters. The number **a** should be printed in  **hexadecimal, left aligned** ; then the number **a** should be printed in binary form, padded with zeroes, then the number **b** should be  **printed with 2 digits after the decimal point, right aligned** ; the number **c** should be **printed with 3 digits after the decimal point, left aligned**. Examples:
 
-![ ](https://github.com/sevdalin/Programming-Basics/blob/master/images/44.JPG)
+![ ](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/44.JPG)
 
 ### Problem 6. \* Quadratic Equation
 
 Write a program that reads the coefficients **a** , **b** and **c** of a quadratic equation (**ax**)*(**ax**) **+** bx **+** c **=** 0 and solves it (prints its real roots). Examples:
 
-![ ](https://github.com/sevdalin/Programming-Basics/blob/master/images/45.JPG)
+![ ](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/45.JPG)
 
 ### Problem 7. \* Sum of 5 Numbers
 
 Write a program that **enters 5 numbers** (given in a single line, separated by a space), **calculates and prints their sum**. Examples:
 
-![ ](https://github.com/sevdalin/Programming-Basics/blob/master/images/46.JPG)
+![ ](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/46.JPG)
 
 ### Problem 8. \* Numbers from 1 to n
 
 Write a program that reads an integer number **n** from the console and prints all the numbers in the interval [**1**.. **n**], each on a single line. Note that you may need to use a **for** -loop. Examples:
 
-![ ](https://github.com/sevdalin/Programming-Basics/blob/master/images/47.JPG)
+![ ](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/47.JPG)
 
 ### Problem 9. \* Sum of n Numbers
 
 Write a program that enters a number **n** and after that enters more **n** numbers and calculates and prints their sum. Note that you may need to use a **for** -loop. Examples:
 
-![ ](https://github.com/sevdalin/Programming-Basics/blob/master/images/48.JPG)
+![ ](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/48.JPG)
 
 ### Problem 10. \* Fibonacci Numbers
 
@@ -136,7 +136,7 @@ The output data must be printed on the console. On the only output line you must
 
 ### Examples
 
-![ ](https://github.com/sevdalin/Programming-Basics/blob/master/images/49.JPG)
+![ ](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/49.JPG)
 
 ### Problem 13. \*\* Dream Item
 
@@ -159,7 +159,7 @@ The input data will **always**** be valid** and in the format described. There i
 **&quot;Money left = {0} leva.&quot;** r **&quot;Not enough money. {0} leva needed.&quot;**
 -  The money must be **rounded to the second digit** after the decimal point.
 
-![ ](https://github.com/sevdalin/Programming-Basics/blob/master/images/50.JPG)
+![ ](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/50.JPG)
 
 
 
@@ -189,7 +189,7 @@ Each row contains characters &quot; **.**&quot; (dot) and &quot; **\***&quot; (a
 
 ### Examples
 
-![ ](https://github.com/sevdalin/Programming-Basics/blob/master/images/51.JPG)
+![ ](https://github.com/sevdalin/Software-University-SoftUni/blob/master/Programming-Basics/images/51.JPG)
 
 
 
