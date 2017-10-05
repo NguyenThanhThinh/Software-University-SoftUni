@@ -14,6 +14,48 @@
 </tbody>
 </table>
 <!-- Head End -->
+<!-- Databases Basics - MS SQL Server Start --><hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">Databases Basics - MS SQL Server - September 2017: <br /> 
+18.09.2017 - 22.10.2017</th><th width="40%">Grade: NULL (out of 6.00) <br /> Issue Date: NULL </th><th align="center width=">
+<p><a title="Databases Basics - MS SQL Server" href="" target="_blank">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="Data Definition and Datatypes" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/CSharp-DB-Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server/02.%20Data%20Definition%20and%20Datatypes" target="_blank">Data Definition and Datatypes - Exercises</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Basic CRUD" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/CSharp-DB-Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server/03.%20Basic%20CRUD" target="_blank">Basic CRUD - Exercises</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Built-In Functions" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/CSharp-DB-Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server/04.%20Built-In%20Functions" target="_blank">Built-In Functions - Exercises</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Data Aggregation" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/CSharp-DB-Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server/05.%20Data%20Aggregation" target="_blank">Data Aggregation - Exercises</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Table Relations" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/CSharp-DB-Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server/06.%20Table%20Relations" target="_blank">Table Relations - Exercises</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Subqueries and JOINs" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/CSharp-DB-Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server/07.%20Subqueries%20and%20JOINs" target="_blank">Subqueries and JOINs - Exercises</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Functions, Triggers and Transactions" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/CSharp-DB-Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server/08.%20Functions%2C%20Triggers%20and%20Transactions" target="_blank">Functions, Triggers and Transactions - Exercises</a></p>
+</td>
+<td colspan="2" width="50%">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr><td colspan="3" align="center" width="100%"><p>Exam Preparation</p></td></tr>
+<!-- Databases Basics - MS SQL Server -->
 <!-- C# OOP Advanced Start --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
