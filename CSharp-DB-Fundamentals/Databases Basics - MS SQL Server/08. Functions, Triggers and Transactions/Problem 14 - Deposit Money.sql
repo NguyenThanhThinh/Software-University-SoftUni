@@ -1,4 +1,4 @@
-ALTER PROC usp_DepositMoney (@AccountId int, @moneyAmount money)
+CREATE PROC usp_DepositMoney (@AccountId int, @moneyAmount money)
 AS
 BEGIN
 	BEGIN TRANSACTION
