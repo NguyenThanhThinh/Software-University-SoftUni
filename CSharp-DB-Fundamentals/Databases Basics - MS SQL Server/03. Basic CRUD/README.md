@@ -1,143 +1,475 @@
-<h1>Exercises: Built-in Functions</h1>
-<p>This document defines the <strong>exercise assignments</strong> for the <a href="https://softuni.bg/trainings/1436/databases-basics-mssql-september-2016">"Databases Basics - MSSQL" course @ Software University.</a></p>
+<h1>Exercises: Basic CRUD</h1>
+<p>This document defines the <strong>exercise assignments</strong> for the <a href="https://softuni.bg/courses/databases-basics-ms-sql-server">"Databases Basics - MSSQL" course @ Software University.</a></p>
+<h2>1.&nbsp;&nbsp; Examine the Databases</h2>
+<p>Download and get familiar with the <strong>SoftUni</strong>, <strong>Diablo</strong> and <strong>Geography </strong>database schemas and tables. You will use them in this and the following exercises to write queries.</p>
 <h1>Part I &ndash; Queries for SoftUni Database</h1>
-<h2>Problem 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Find Names of All Employees by First Name</h2>
-<p>Write a SQL query to find <strong>first</strong> and <strong>last names</strong> of all employees whose <strong>first name starts with</strong> <strong>&ldquo;SA&rdquo;. </strong>Submit your query statements as Prepare DB &amp; run queries.</p>
+<h2>2.&nbsp;&nbsp; Find All Information About Departments</h2>
+<p>Write a SQL query to find <strong>all available information about the Departments. </strong>Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="104">
+<p><strong>DepartmentID</strong></p>
+</td>
+<td width="95">
+<p><strong>Name</strong></p>
+</td>
+<td width="85">
+<p><strong>ManagerID</strong></p>
+</td>
+</tr>
+<tr>
+<td width="104">
+<p>1</p>
+</td>
+<td width="95">
+<p>Engineering</p>
+</td>
+<td width="85">
+<p>12</p>
+</td>
+</tr>
+<tr>
+<td width="104">
+<p>2</p>
+</td>
+<td width="95">
+<p>Tool Design</p>
+</td>
+<td width="85">
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td width="104">
+<p>3</p>
+</td>
+<td width="95">
+<p>Sales</p>
+</td>
+<td width="85">
+<p>273</p>
+</td>
+</tr>
+<tr>
+<td width="104">
+<p>&hellip;</p>
+</td>
+<td width="95">
+<p>&hellip;</p>
+</td>
+<td width="85">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>3.&nbsp;&nbsp; Find all Department Names</h2>
+<p>Write SQL query to find <strong>all Department names</strong>. Submit your query statements as Prepare DB &amp; run queries.</p>
 <h3>Example</h3>
 <table>
 <tbody>
 <tr>
 <td width="95">
+<p><strong>Name</strong></p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p>Engineering</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p>Tool Design</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p>Sales</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>4.&nbsp;&nbsp; Find Salary of Each Employee</h2>
+<p>Write SQL query to find the <strong>first name</strong>, <strong>last name</strong> and <strong>salary</strong> of each employee. Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="85">
 <p><strong>FirstName</strong></p>
 </td>
-<td width="142">
+<td width="85">
 <p><strong>LastName</strong></p>
-</td>
-</tr>
-<tr>
-<td width="95">
-<p>Sariya</p>
-</td>
-<td width="142">
-<p>Harnpadoungsataya</p>
-</td>
-</tr>
-<tr>
-<td width="95">
-<p>Sandra</p>
-</td>
-<td width="142">
-<p>Reategui Alayo</p>
-</td>
-</tr>
-<tr>
-<td width="95">
-<p>&hellip;</p>
-</td>
-<td width="142">
-<p>&hellip;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Problem 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Find Names of All employees by Last Name</h2>
-<p>Write a SQL query to find <strong>first</strong> and <strong>last names</strong> of all employees whose <strong>last name contains &ldquo;ei&rdquo;. </strong>Submit your query statements as Prepare DB &amp; run queries.</p>
-<h3>Example</h3>
-<table>
-<tbody>
-<tr>
-<td width="95">
-<p><strong>FirstName</strong></p>
-</td>
-<td width="142">
-<p><strong>LastName</strong></p>
-</td>
-</tr>
-<tr>
-<td width="95">
-<p>Kendall</p>
-</td>
-<td width="142">
-<p>Keil</p>
-</td>
-</tr>
-<tr>
-<td width="95">
-<p>Christian</p>
-</td>
-<td width="142">
-<p>Kleinerman</p>
-</td>
-</tr>
-<tr>
-<td width="95">
-<p>&hellip;</p>
-</td>
-<td width="142">
-<p>&hellip;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Problem 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Find First Names of All Employees</h2>
-<p>Write a SQL query to find the <strong>first names</strong> of all employees in the <strong>departments</strong> with <strong>ID 3 or 10</strong> and whose <strong>hire year</strong> is <strong>between 1995 and 2005 inclusive</strong>. Submit your query statements as Prepare DB &amp; run queries.</p>
-<h3>Example</h3>
-<table>
-<tbody>
-<tr>
-<td width="85">
-<p><strong>FirstName</strong></p>
-</td>
-</tr>
-<tr>
-<td width="85">
-<p>Deborah</p>
-</td>
-</tr>
-<tr>
-<td width="85">
-<p>Wendy</p>
-</td>
-</tr>
-<tr>
-<td width="85">
-<p>Candy</p>
-</td>
-</tr>
-<tr>
-<td width="85">
-<p>&hellip;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Problem 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Find All Employees Except Engineers</h2>
-<p>Write a SQL query to find the <strong>first </strong>and<strong> last names</strong> of all employees whose <strong>job titles does not contain</strong> &ldquo;<strong>engineer</strong>&rdquo;. Submit your query statements as Prepare DB &amp; run queries.</p>
-<h3>Example</h3>
-<table>
-<tbody>
-<tr>
-<td width="85">
-<p><strong>FirstName</strong></p>
 </td>
 <td width="76">
-<p><strong>LastName</strong></p>
+<p><strong>Salary</strong></p>
 </td>
 </tr>
 <tr>
 <td width="85">
 <p>Guy</p>
 </td>
-<td width="76">
+<td width="85">
 <p>Gilbert</p>
+</td>
+<td width="76">
+<p>12500.00</p>
 </td>
 </tr>
 <tr>
 <td width="85">
 <p>Kevin</p>
 </td>
-<td width="76">
+<td width="85">
 <p>Brown</p>
+</td>
+<td width="76">
+<p>13500.00</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Roberto</p>
+</td>
+<td width="85">
+<p>Tamburello</p>
+</td>
+<td width="76">
+<p>43300.00</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>&hellip;</p>
+</td>
+<td width="85">
+<p>&hellip;</p>
+</td>
+<td width="76">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>5.&nbsp;&nbsp; Find Full Name of Each Employee</h2>
+<p>Write SQL query to find the <strong>first</strong>, <strong>middle</strong> and <strong>last name</strong> of each employee. Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="95">
+<p><strong>FirstName</strong></p>
+</td>
+<td width="94">
+<p><strong>MiddleName</strong></p>
+</td>
+<td width="132">
+<p><strong>LastName</strong></p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p>Guy</p>
+</td>
+<td width="94">
+<p>R</p>
+</td>
+<td width="132">
+<p>Gilbert</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p>Kevin</p>
+</td>
+<td width="94">
+<p>F</p>
+</td>
+<td width="132">
+<p>Brown</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p>Roberto</p>
+</td>
+<td width="94">
+<p>NULL</p>
+</td>
+<td width="132">
+<p>Tamburello</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p>&hellip;</p>
+</td>
+<td width="94">
+<p>&hellip;</p>
+</td>
+<td width="132">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>6.&nbsp;&nbsp; Find Email Address of Each Employee</h2>
+<p>Write a SQL query to find the <strong>email address</strong> of each employee. (by his <strong>first and last name</strong>). Consider that the email domain is <strong>softuni.bg</strong>. Emails should look like &ldquo;John.Doe@softuni.bg". The <strong>produced column</strong> should be named <strong>"Full Email Address"</strong>. Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="217">
+<p><strong>Full Email Address</strong></p>
+</td>
+</tr>
+<tr>
+<td width="217">
+<p>Guy.Gilbert@softuni.bg</p>
+</td>
+</tr>
+<tr>
+<td width="217">
+<p>Kevin.Brown@softuni.bg</p>
+</td>
+</tr>
+<tr>
+<td width="217">
+<p>Roberto.Tamburello@softuni.bg</p>
+</td>
+</tr>
+<tr>
+<td width="217">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>7.&nbsp;&nbsp; Find All Different Employee&rsquo;s Salaries</h2>
+<p>Write a SQL query to find <strong>all different employee&rsquo;s salaries</strong>. Show only the salaries. Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="76">
+<p><strong>Salary</strong></p>
+</td>
+</tr>
+<tr>
+<td width="76">
+<p>9000.00</p>
+</td>
+</tr>
+<tr>
+<td width="76">
+<p>9300.00</p>
+</td>
+</tr>
+<tr>
+<td width="76">
+<p>9500.00</p>
+</td>
+</tr>
+<tr>
+<td width="76">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>8.&nbsp;&nbsp; Find all Information About Employees</h2>
+<p>Write a SQL query to find <strong>all information</strong> about the employees whose <strong>job title</strong> is <strong>&ldquo;Sales Representative&rdquo;. </strong>Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table width="662">
+<tbody>
+<tr>
+<td width="38">
+<p><strong>ID</strong></p>
+</td>
+<td width="66">
+<p><strong>First</strong></p>
+<p><strong>Name</strong></p>
+</td>
+<td width="66">
+<p><strong>Last</strong></p>
+<p><strong>Name</strong></p>
+</td>
+<td width="66">
+<p><strong>Middle</strong></p>
+<p><strong>Name</strong></p>
+</td>
+<td width="113">
+<p><strong>Job Title</strong></p>
+</td>
+<td width="47">
+<p><strong>DeptID</strong></p>
+</td>
+<td width="57">
+<p><strong>Mngr</strong></p>
+<p><strong>ID</strong></p>
+</td>
+<td width="47">
+<p><strong>HireDate</strong></p>
+</td>
+<td width="76">
+<p><strong>Salary</strong></p>
+</td>
+<td width="85">
+<p><strong>AddressID</strong></p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>275</p>
+</td>
+<td width="66">
+<p>Michael</p>
+</td>
+<td width="66">
+<p>Blythe</p>
+</td>
+<td width="66">
+<p>G</p>
+</td>
+<td width="113">
+<p>Sales Representative</p>
+</td>
+<td width="47">
+<p>3</p>
+</td>
+<td width="57">
+<p>268</p>
+</td>
+<td width="47">
+<p>&hellip;</p>
+</td>
+<td width="76">
+<p>23100.00</p>
+</td>
+<td width="85">
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>276</p>
+</td>
+<td width="66">
+<p>Linda</p>
+</td>
+<td width="66">
+<p>Mitchell</p>
+</td>
+<td width="66">
+<p>C</p>
+</td>
+<td width="113">
+<p>Sales Representative</p>
+</td>
+<td width="47">
+<p>3</p>
+</td>
+<td width="57">
+<p>268</p>
+</td>
+<td width="47">
+<p>&hellip;</p>
+</td>
+<td width="76">
+<p>23100.00</p>
+</td>
+<td width="85">
+<p>170</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>277</p>
+</td>
+<td width="66">
+<p>Jillian</p>
+</td>
+<td width="66">
+<p>Carson</p>
+</td>
+<td width="66">
+<p>NULL</p>
+</td>
+<td width="113">
+<p>Sales Representative</p>
+</td>
+<td width="47">
+<p>3</p>
+</td>
+<td width="57">
+<p>268</p>
+</td>
+<td width="47">
+<p>&hellip;</p>
+</td>
+<td width="76">
+<p>23100.00</p>
+</td>
+<td width="85">
+<p>61</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>&hellip;</p>
+</td>
+<td width="66">
+<p>&hellip;</p>
+</td>
+<td width="66">
+<p>&hellip;</p>
+</td>
+<td width="66">
+<p>&hellip;</p>
+</td>
+<td width="113">
+<p>&hellip;</p>
+</td>
+<td width="47">
+<p>&hellip;</p>
+</td>
+<td width="57">
+<p>&hellip;</p>
+</td>
+<td width="47">
+<p>&hellip;</p>
+</td>
+<td width="76">
+<p>&hellip;</p>
+</td>
+<td width="85">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>9.&nbsp;&nbsp; Find Names of All Employees by Salary in Range</h2>
+<p>Write a SQL query to find the <strong>first name</strong>, <strong>last name</strong> and <strong>job title</strong> of all employees whose <strong>salary is in the</strong> <strong>range [20000, 30000]. </strong>Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="85">
+<p><strong>FirstName</strong></p>
+</td>
+<td width="76">
+<p><strong>LastName</strong></p>
+</td>
+<td width="151">
+<p><strong>JobTitle</strong></p>
 </td>
 </tr>
 <tr>
@@ -147,6 +479,31 @@
 <td width="76">
 <p>Walters</p>
 </td>
+<td width="151">
+<p>Senior Tool Designer</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Thierry</p>
+</td>
+<td width="76">
+<p>D'Hers</p>
+</td>
+<td width="151">
+<p>Tool Designer</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>JoLynn</p>
+</td>
+<td width="76">
+<p>Dobney</p>
+</td>
+<td width="151">
+<p>Production Supervisor</p>
+</td>
 </tr>
 <tr>
 <td width="85">
@@ -155,137 +512,41 @@
 <td width="76">
 <p>&hellip;</p>
 </td>
+<td width="151">
+<p>&hellip;</p>
+</td>
 </tr>
 </tbody>
 </table>
-<h2>Problem 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Find Towns with Name Length</h2>
-<p>Write a SQL query to find town names that are <strong>5</strong> or <strong>6 symbols long</strong> and <strong>order</strong> them <strong>alphabetically by town name</strong>. Submit your query statements as Prepare DB &amp; run queries.</p>
+<h2>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Find Names of All Employees</h2>
+<p>Write a SQL query to find the <strong>full name</strong> of all employees whose <strong>salary</strong> is <strong>25000, 14000, 12500 or 23600</strong>. Full Name is combination of <strong>first</strong>, <strong>middle</strong> and <strong>last</strong> name (separated with <strong>single space</strong>) and they should be <strong>in one column</strong> called <strong>&ldquo;Full Name&rdquo;. </strong>Submit your query statements as Prepare DB &amp; run queries.</p>
 <h3>Example</h3>
 <table>
 <tbody>
 <tr>
-<td width="66">
-<p><strong>Name</strong></p>
+<td width="132">
+<p><strong>Full Name</strong></p>
 </td>
 </tr>
 <tr>
-<td width="66">
-<p>Berlin</p>
+<td width="132">
+<p>Guy R Gilbert</p>
 </td>
 </tr>
 <tr>
-<td width="66">
-<p>Duluth</p>
+<td width="132">
+<p>Thierry B D'Hers</p>
 </td>
 </tr>
 <tr>
-<td width="66">
-<p>Duvall</p>
-</td>
-</tr>
-<tr>
-<td width="66">
-<p>&hellip;</p>
+<td width="132">
+<p>JoLynn M Dobney</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h2>Problem 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Find Towns Starting With</h2>
-<p>Write a SQL query to find all towns that <strong>start with</strong> letters <strong>M</strong>, <strong>K</strong>, <strong>B</strong> or <strong>E</strong>. Order them <strong>alphabetically</strong> by town name. Submit your query statements as Prepare DB &amp; run queries.</p>
-<h3>Example</h3>
-<table>
-<tbody>
-<tr>
-<td width="66">
-<p><strong>TownID</strong></p>
-</td>
-<td width="95">
-<p><strong>Name</strong></p>
-</td>
-</tr>
-<tr>
-<td width="66">
-<p>5</p>
-</td>
-<td width="95">
-<p>Bellevue</p>
-</td>
-</tr>
-<tr>
-<td width="66">
-<p>31</p>
-</td>
-<td width="95">
-<p>Berlin</p>
-</td>
-</tr>
-<tr>
-<td width="66">
-<p>30</p>
-</td>
-<td width="95">
-<p>Bordeaux</p>
-</td>
-</tr>
-<tr>
-<td width="66">
-<p>&hellip;</p>
-</td>
-<td width="95">
-<p>&hellip;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Problem 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Find Towns Not Starting With</h2>
-<p>Write a SQL query to find all towns that <strong>does not start with</strong> letters <strong>R</strong>, <strong>B</strong> or <strong>D</strong>. Order them <strong>alphabetically</strong> by name. Submit your query statements as Prepare DB &amp; run queries.</p>
-<h3>Example</h3>
-<table>
-<tbody>
-<tr>
-<td width="66">
-<p><strong>TownID</strong></p>
-</td>
-<td width="95">
-<p><strong>Name</strong></p>
-</td>
-</tr>
-<tr>
-<td width="66">
-<p>2</p>
-</td>
-<td width="95">
-<p>Calgary</p>
-</td>
-</tr>
-<tr>
-<td width="66">
-<p>23</p>
-</td>
-<td width="95">
-<p>Cambridge</p>
-</td>
-</tr>
-<tr>
-<td width="66">
-<p>15</p>
-</td>
-<td width="95">
-<p>Carnation</p>
-</td>
-</tr>
-<tr>
-<td width="66">
-<p>&hellip;</p>
-</td>
-<td width="95">
-<p>&hellip;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Problem 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create View Employees Hired After 2000 Year</h2>
-<p>Write a SQL query to create view <strong>V_EmployeesHiredAfter2000</strong> with <strong>first and last name</strong> to all employees <strong>hired after 2000 year. </strong>Submit your query statements as Run skeleton, run queries &amp; check DB.</p>
+<h2>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Find All Employees Without Manager</h2>
+<p>Write a SQL query to find <strong>first and last names</strong> about those employees that <strong>does not have a manager</strong>. Submit your query statements as Prepare DB &amp; run queries.</p>
 <h3>Example</h3>
 <table>
 <tbody>
@@ -299,40 +560,122 @@
 </tr>
 <tr>
 <td width="85">
-<p>Steven</p>
+<p>Ken</p>
 </td>
 <td width="76">
-<p>Selikoff</p>
+<p>Sanchez</p>
 </td>
 </tr>
 <tr>
 <td width="85">
-<p>Peter</p>
+<p>Svetlin</p>
 </td>
 <td width="76">
-<p>Krebs</p>
+<p>Nakov</p>
 </td>
 </tr>
 <tr>
 <td width="85">
-<p>Stuart</p>
+<p>&hellip;</p>
 </td>
 <td width="76">
-<p>Munson</p>
-</td>
-</tr>
-<tr>
-<td width="85">
-<p>...</p>
-</td>
-<td width="76">
-<p>...</p>
+<p>&hellip;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h2>Problem 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Length of Last Name</h2>
-<p>Write a SQL query to find the names of all employees whose last name is <strong>exactly</strong> <strong>5 characters long.</strong></p>
+<h2>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Find All Employees with Salary More Than 50000</h2>
+<p>Write a SQL query to find <strong>first name</strong>, <strong>last name</strong> and <strong>salary</strong> of those employees who has salary more than 50000. Order them in decreasing order by salary. Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="85">
+<p><strong>FirstName</strong></p>
+</td>
+<td width="76">
+<p><strong>LastName</strong></p>
+</td>
+<td width="85">
+<p><strong>Salary</strong></p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Ken</p>
+</td>
+<td width="76">
+<p>Sanchez</p>
+</td>
+<td width="85">
+<p>125500.00</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>James</p>
+</td>
+<td width="76">
+<p>Hamilton</p>
+</td>
+<td width="85">
+<p>84100.00</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>&hellip;</p>
+</td>
+<td width="76">
+<p>&hellip;</p>
+</td>
+<td width="85">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Find 5 Best Paid Employees.</h2>
+<p>Write SQL query to find <strong>first and last names </strong>about <strong>5 best paid Employees</strong> ordered <strong>descending by their salary. </strong>Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="85">
+<p><strong>FirstName</strong></p>
+</td>
+<td width="76">
+<p><strong>LastName</strong></p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Ken</p>
+</td>
+<td width="76">
+<p>Sanchez</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>James</p>
+</td>
+<td width="76">
+<p>Hamilton</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>&hellip;</p>
+</td>
+<td width="76">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Find All Employees Except Marketing</h2>
+<p>Write a SQL query to find the <strong>first </strong>and<strong> last names</strong> of all employees whose <strong>department ID is different from 4. </strong>Submit your query statements as Prepare DB &amp; run queries.</p>
 <h3>Example</h3>
 <table>
 <tbody>
@@ -342,53 +685,569 @@
 </td>
 <td width="85">
 <p><strong>LastName</strong></p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Guy</p>
+</td>
+<td width="85">
+<p>Gilbert</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Roberto</p>
+</td>
+<td width="85">
+<p>Tamburello</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Rob</p>
+</td>
+<td width="85">
+<p>Walters</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sort Employees Table</h2>
+<p>Write a SQL query to sort all records in the Employees table by the following criteria:</p>
+<ul>
+<li>First by <strong>salary</strong> in <strong>decreasing</strong> order</li>
+<li>Then by <strong>first name</strong> <strong>alphabetically</strong></li>
+<li>Then by <strong>last name descending</strong></li>
+<li>Then by <strong>middle name alphabetically</strong></li>
+</ul>
+<p>Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table width="671">
+<tbody>
+<tr>
+<td width="38">
+<p><strong>ID</strong></p>
+</td>
+<td width="66">
+<p><strong>First</strong></p>
+<p><strong>Name</strong></p>
+</td>
+<td width="76">
+<p><strong>Last</strong></p>
+<p><strong>Name</strong></p>
+</td>
+<td width="66">
+<p><strong>Middle</strong></p>
+<p><strong>Name</strong></p>
+</td>
+<td width="113">
+<p><strong>Job Title</strong></p>
+</td>
+<td width="47">
+<p><strong>DeptID</strong></p>
+</td>
+<td width="47">
+<p><strong>Mngr</strong></p>
+<p><strong>ID</strong></p>
+</td>
+<td width="47">
+<p><strong>HireDate</strong></p>
+</td>
+<td width="85">
+<p><strong>Salary</strong></p>
+</td>
+<td width="85">
+<p><strong>AddressID</strong></p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>109</p>
+</td>
+<td width="66">
+<p>Ken</p>
+</td>
+<td width="76">
+<p>Sanchez</p>
+</td>
+<td width="66">
+<p>J</p>
+</td>
+<td width="113">
+<p>Chief Executive Officer</p>
+</td>
+<td width="47">
+<p>16</p>
+</td>
+<td width="47">
+<p>NULL</p>
+</td>
+<td width="47">
+<p>&hellip;</p>
+</td>
+<td width="85">
+<p>125500.00</p>
+</td>
+<td width="85">
+<p>177</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>148</p>
+</td>
+<td width="66">
+<p>James</p>
+</td>
+<td width="76">
+<p>Hamilton</p>
+</td>
+<td width="66">
+<p>R</p>
+</td>
+<td width="113">
+<p>Vice President of Production</p>
+</td>
+<td width="47">
+<p>7</p>
+</td>
+<td width="47">
+<p>109</p>
+</td>
+<td width="47">
+<p>&hellip;</p>
+</td>
+<td width="85">
+<p>84100.00</p>
+</td>
+<td width="85">
+<p>158</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>273</p>
+</td>
+<td width="66">
+<p>Brian</p>
+</td>
+<td width="76">
+<p>Welcker</p>
+</td>
+<td width="66">
+<p>S</p>
+</td>
+<td width="113">
+<p>Vice President of Sales</p>
+</td>
+<td width="47">
+<p>3</p>
+</td>
+<td width="47">
+<p>109</p>
+</td>
+<td width="47">
+<p>&hellip;</p>
+</td>
+<td width="85">
+<p>72100.00</p>
+</td>
+<td width="85">
+<p>134</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>&hellip;</p>
+</td>
+<td width="66">
+<p>&hellip;</p>
+</td>
+<td width="76">
+<p>&hellip;</p>
+</td>
+<td width="66">
+<p>&hellip;</p>
+</td>
+<td width="113">
+<p>&hellip;</p>
+</td>
+<td width="47">
+<p>&hellip;</p>
+</td>
+<td width="47">
+<p>&hellip;</p>
+</td>
+<td width="47">
+<p>&hellip;</p>
+</td>
+<td width="85">
+<p>&hellip;</p>
+</td>
+<td width="85">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Create View Employees with Salaries</h2>
+<p>Write a SQL query to create a view <strong>V_EmployeesSalaries</strong> with <strong>first name</strong>, <strong>last name</strong> and <strong>salary</strong> for each employee. Submit your query statements as Run skeleton, run queries &amp; check DB.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="85">
+<p><strong>FirstName</strong></p>
+</td>
+<td width="76">
+<p><strong>LastName</strong></p>
+</td>
+<td width="76">
+<p><strong>Salary</strong></p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Guy</p>
+</td>
+<td width="76">
+<p>Gilbert</p>
+</td>
+<td width="76">
+<p>12500.00</p>
 </td>
 </tr>
 <tr>
 <td width="85">
 <p>Kevin</p>
 </td>
-<td width="85">
+<td width="76">
 <p>Brown</p>
 </td>
-</tr>
-<tr>
-<td width="85">
-<p>Terri</p>
-</td>
-<td width="85">
-<p>Duffy</p>
-</td>
-</tr>
-<tr>
-<td width="85">
-<p>Jo</p>
-</td>
-<td width="85">
-<p>Brown</p>
-</td>
-</tr>
-<tr>
-<td width="85">
-<p>Diane</p>
-</td>
-<td width="85">
-<p>Glimp</p>
+<td width="76">
+<p>13500.00</p>
 </td>
 </tr>
 <tr>
 <td width="85">
 <p>&hellip;</p>
 </td>
-<td width="85">
+<td width="76">
+<p>&hellip;</p>
+</td>
+<td width="76">
 <p>&hellip;</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h2>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create View Employees with Job Titles</h2>
+<p>Write a SQL query to create view <strong>V_EmployeeNameJobTitle </strong>with <strong>full employee name</strong> and <strong>job title</strong>. When middle name is <strong>NULL</strong> replace it with <strong>empty string (&lsquo;&rsquo;)</strong>. Submit your query statements as Run skeleton, run queries &amp; check DB.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="151">
+<p><strong>Full Name</strong></p>
+</td>
+<td width="151">
+<p><strong>Job Title</strong></p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>Guy R Gilbert</p>
+</td>
+<td width="151">
+<p>Production Technician</p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>Kevin F Brown</p>
+</td>
+<td width="151">
+<p>Marketing Assistant</p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>Roberto&nbsp; Tamburello</p>
+</td>
+<td width="151">
+<p>Engineering Manager</p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>&hellip;</p>
+</td>
+<td width="151">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Distinct Job Titles</h2>
+<p>Write a SQL query to find <strong>all distinct job titles</strong>. Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="180">
+<p><strong>JobTitle</strong></p>
+</td>
+</tr>
+<tr>
+<td width="180">
+<p>Accountant</p>
+</td>
+</tr>
+<tr>
+<td width="180">
+<p>Accounts Manager</p>
+</td>
+</tr>
+<tr>
+<td width="180">
+<p>Accounts Payable Specialist</p>
+</td>
+</tr>
+<tr>
+<td width="180">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Find First 10 Started Projects</h2>
+<p>Write a SQL query to find <strong>first 10 started projects</strong>. Select <strong>all information about them</strong> and <strong>sort</strong> them <strong>by start date</strong>, <strong>then by name</strong>. Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="38">
+<p><strong>ID</strong></p>
+</td>
+<td width="113">
+<p><strong>Name</strong></p>
+</td>
+<td width="321">
+<p><strong>Description</strong></p>
+</td>
+<td width="104">
+<p><strong>StartDate</strong></p>
+</td>
+<td width="104">
+<p><strong>EndDate</strong></p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>6</p>
+</td>
+<td width="113">
+<p>HL Road Frame</p>
+</td>
+<td width="321">
+<p>Research, design and development of HL Road &hellip;</p>
+</td>
+<td width="104">
+<p>1998-05-02 00:00:00</p>
+</td>
+<td width="104">
+<p>2003-06-01 00:00:00</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>2</p>
+</td>
+<td width="113">
+<p>Cycling Cap</p>
+</td>
+<td width="321">
+<p>Research, design and development of C&hellip;</p>
+</td>
+<td width="104">
+<p>2001-06-01 00:00:00</p>
+</td>
+<td width="104">
+<p>2003-06-01 00:00:00</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>5</p>
+</td>
+<td width="113">
+<p>HL Mountain Frame</p>
+</td>
+<td width="321">
+<p>Research, design and development of HL M&hellip;</p>
+</td>
+<td width="104">
+<p>2001-06-01 00:00:00</p>
+</td>
+<td width="104">
+<p>2003-06-01 00:00:00</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>&hellip;</p>
+</td>
+<td width="113">
+<p>&hellip;</p>
+</td>
+<td width="321">
+<p>&hellip;</p>
+</td>
+<td width="104">
+<p>&hellip;</p>
+</td>
+<td width="104">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Last 7 Hired Employees</h2>
+<p>Write a SQL query to find <strong>last 7 hired employees</strong>. Select <strong>their first, last name and their hire date. </strong>Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="113">
+<p><strong>FirstName</strong></p>
+</td>
+<td width="85">
+<p><strong>LastName</strong></p>
+</td>
+<td width="189">
+<p><strong>HireDate</strong></p>
+</td>
+</tr>
+<tr>
+<td width="113">
+<p>Rachel</p>
+</td>
+<td width="85">
+<p>Valdez</p>
+</td>
+<td width="189">
+<p>2005-07-01 00:00:00</p>
+</td>
+</tr>
+<tr>
+<td width="113">
+<p>Lynn</p>
+</td>
+<td width="85">
+<p>Tsoflias</p>
+</td>
+<td width="189">
+<p>2005-07-01 00:00:00</p>
+</td>
+</tr>
+<tr>
+<td width="113">
+<p>Syed</p>
+</td>
+<td width="85">
+<p>Abbas</p>
+</td>
+<td width="189">
+<p>2005-04-15 00:00:00</p>
+</td>
+</tr>
+<tr>
+<td width="113">
+<p>&hellip;</p>
+</td>
+<td width="85">
+<p>&hellip;</p>
+</td>
+<td width="189">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Increase Salaries</h2>
+<p>Write a SQL query to increase salaries of all employees that are in the <strong>Engineering</strong>, <strong>Tool Design</strong>, <strong>Marketing</strong> or <strong>Information Services</strong> department by <strong>12%</strong>. Then <strong>select Salaries column</strong> from the <strong>Employees</strong> table. After that exercise restore your database to revert those changes. Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="76">
+<p><strong>Salary</strong></p>
+</td>
+</tr>
+<tr>
+<td width="76">
+<p>12500.00</p>
+</td>
+</tr>
+<tr>
+<td width="76">
+<p>15120.00</p>
+</td>
+</tr>
+<tr>
+<td width="76">
+<p>48496.00</p>
+</td>
+</tr>
+<tr>
+<td width="76">
+<p>33376.00</p>
+</td>
+</tr>
+<tr>
+<td width="76">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <h1>Part II &ndash; Queries for Geography Database</h1>
-<h2>Problem 10. Countries Holding &lsquo;A&rsquo; 3 or More Times</h2>
-<p>Find all countries that holds the letter 'A' in their name at least 3 times (case insensitively), sorted by ISO code. Display the country name and ISO code. Submit your query statements as Prepare DB &amp; run queries.</p>
+<h2>22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;All Mountain Peaks</h2>
+<p>Display all <strong>mountain peaks </strong>in alphabetical order. Submit your query statements as Prepare DB &amp; run queries.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="123">
+<p><strong>PeakName</strong></p>
+</td>
+</tr>
+<tr>
+<td width="123">
+<p>Aconcagua</p>
+</td>
+</tr>
+<tr>
+<td width="123">
+<p>Banski Suhodol</p>
+</td>
+</tr>
+<tr>
+<td width="123">
+<p>Batashki Snezhnik</p>
+</td>
+</tr>
+<tr>
+<td width="123">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Biggest Countries by Population</h2>
+<p>Find the 30 biggest countries by population <strong>from Europe</strong>. Display the country name and population. Sort the results by population (from biggest to smallest), then by country alphabetically. Submit your query statements as Prepare DB &amp; run queries.</p>
 <h3>Example</h3>
 <table>
 <tbody>
@@ -397,687 +1256,135 @@
 <p><strong>CountryName</strong></p>
 </td>
 <td width="85">
-<p><strong>ISO Code</strong></p>
+<p><strong>Population</strong></p>
+</td>
+</tr>
+<tr>
+<td width="104">
+<p>Russia</p>
+</td>
+<td width="85">
+<p>140702000</p>
+</td>
+</tr>
+<tr>
+<td width="104">
+<p>Germany</p>
+</td>
+<td width="85">
+<p>81802257</p>
+</td>
+</tr>
+<tr>
+<td width="104">
+<p>France</p>
+</td>
+<td width="85">
+<p>64768389</p>
+</td>
+</tr>
+<tr>
+<td width="104">
+<p>&hellip;</p>
+</td>
+<td width="85">
+<p>&hellip;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;*Countries and Currency (Euro / Not Euro)</h2>
+<p>Find all countries along with information about their currency. Display the country code, country name and information about its currency: either "<strong>Euro</strong>" or "<strong>Not Euro</strong>". Sort the results by country name alphabetically. Submit your query statements as Prepare DB &amp; run queries.</p>
+<p>*Hint: Use <strong>CASE</strong> &hellip; <strong>WHEN</strong>.</p>
+<h3>Example</h3>
+<table>
+<tbody>
+<tr>
+<td width="104">
+<p><strong>CountryName</strong></p>
+</td>
+<td width="95">
+<p><strong>CountryCode</strong></p>
+</td>
+<td width="95">
+<p><strong>Currency</strong></p>
 </td>
 </tr>
 <tr>
 <td width="104">
 <p>Afghanistan</p>
 </td>
-<td width="85">
-<p>AFG</p>
+<td width="95">
+<p>AF</p>
+</td>
+<td width="95">
+<p>Not Euro</p>
+</td>
+</tr>
+<tr>
+<td width="104">
+<p>&Aring;land</p>
+</td>
+<td width="95">
+<p>AX</p>
+</td>
+<td width="95">
+<p>Euro</p>
 </td>
 </tr>
 <tr>
 <td width="104">
 <p>Albania</p>
 </td>
-<td width="85">
-<p>ALB</p>
+<td width="95">
+<p>AL</p>
+</td>
+<td width="95">
+<p>Not Euro</p>
 </td>
 </tr>
 <tr>
 <td width="104">
 <p>&hellip;</p>
 </td>
-<td width="85">
+<td width="95">
+<p>&hellip;</p>
+</td>
+<td width="95">
 <p>&hellip;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h2>Problem 11. &nbsp;Mix of Peak and River Names</h2>
-<p>Combine all peak names with all river names, so that the last letter of each peak name is the same like the first letter of its corresponding river name. Display the peak names, river names, and the obtained mix (mix should be in lowercase). Sort the results by the obtained mix. Submit your query statements as Prepare DB &amp; run queries.</p>
+<p>&nbsp;</p>
+<h1>Part III &ndash; Queries for Diablo Database</h1>
+<h2>25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;All Diablo Characters</h2>
+<p>Display all <strong>characters </strong>in alphabetical order. Submit for evaluation the result text comma separated with headers. Submit your query statements as Prepare DB &amp; run queries.</p>
 <h3>Example</h3>
 <table>
 <tbody>
 <tr>
-<td width="113">
-<p><strong>PeakName</strong></p>
-</td>
-<td width="85">
-<p><strong>RiverName</strong></p>
-</td>
-<td width="132">
-<p><strong>Mix</strong></p>
+<td width="123">
+<p><strong>Name</strong></p>
 </td>
 </tr>
 <tr>
-<td width="113">
-<p>Aconcagua</p>
-</td>
-<td width="85">
+<td width="123">
 <p>Amazon</p>
 </td>
-<td width="132">
-<p>aconcaguamazon</p>
-</td>
 </tr>
-<tr>
-<td width="113">
-<p>Aconcagua</p>
-</td>
-<td width="85">
-<p>Amur</p>
-</td>
-<td width="132">
-<p>aconcaguamur</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p>Banski Suhodol</p>
-</td>
-<td width="85">
-<p>Lena</p>
-</td>
-<td width="132">
-<p>banski suhodolena</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p>&hellip;</p>
-</td>
-<td width="85">
-<p>&hellip;</p>
-</td>
-<td width="132">
-<p>&hellip;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h1>Part III &ndash; Queries for Diablo Database</h1>
-<h2>Problem 12. Games from 2011 and 2012 year</h2>
-<p>Find the top 50 games ordered by start date, then by name of the game. Display only games from 2011 and 2012 year. Display start date in the format &ldquo;<strong>yyyy-MM-dd</strong>&rdquo;. Submit your query statements as Prepare DB &amp; run queries.</p>
-<h3>Example</h3>
-<table>
-<tbody>
-<tr>
-<td width="104">
-<p><strong>Name</strong></p>
-</td>
-<td width="85">
-<p><strong>Start</strong></p>
-</td>
-</tr>
-<tr>
-<td width="104">
-<p>Rose Royalty</p>
-</td>
-<td width="85">
-<p>2011-01-05</p>
-</td>
-</tr>
-<tr>
-<td width="104">
-<p>London</p>
-</td>
-<td width="85">
-<p>2011-01-13</p>
-</td>
-</tr>
-<tr>
-<td width="104">
-<p>Broadway</p>
-</td>
-<td width="85">
-<p>2011-01-16</p>
-</td>
-</tr>
-<tr>
-<td width="104">
-<p>&hellip;</p>
-</td>
-<td width="85">
-<p>&hellip;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Problem 13. &nbsp;User Email Providers</h2>
-<p>Find all users along with information about their email providers. Display the username and email provider. Sort the results by email provider alphabetically, then by username. Submit your query statements as Prepare DB &amp; run queries.</p>
-<h3>Example</h3>
-<table>
-<tbody>
-<tr>
-<td width="104">
-<p><strong>Username</strong></p>
-</td>
-<td width="132">
-<p><strong>Email Provider</strong></p>
-</td>
-</tr>
-<tr>
-<td width="104">
-<p>Pesho</p>
-</td>
-<td width="132">
-<p>abv.bg</p>
-</td>
-</tr>
-<tr>
-<td width="104">
-<p>monoxidecos</p>
-</td>
-<td width="132">
-<p>astonrasuna.com</p>
-</td>
-</tr>
-<tr>
-<td width="104">
-<p>bashsassafras</p>
-</td>
-<td width="132">
-<p>balibless</p>
-</td>
-</tr>
-<tr>
-<td width="104">
-<p>&hellip;</p>
-</td>
-<td width="132">
-<p>&hellip;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Problem 14. &nbsp;Get Users with IPAdress Like Pattern</h2>
-<p>Find all users along with their IP addresses sorted by username alphabetically. Display only rows that IP address matches the pattern: &ldquo;<strong>***.1^.^.***</strong>&rdquo;. Submit your query statements as Prepare DB &amp; run queries.</p>
-<p>Legend: <strong>* </strong>- one symbol, <strong>^</strong> - one or more symbols</p>
-<h3>Example</h3>
-<table>
-<tbody>
-<tr>
-<td width="132">
-<p><strong>Username</strong></p>
-</td>
-<td width="123">
-<p><strong>IP Address</strong></p>
-</td>
-</tr>
-<tr>
-<td width="132">
-<p>bindbawdy</p>
-</td>
-<td width="123">
-<p>192.157.20.222</p>
-</td>
-</tr>
-<tr>
-<td width="132">
-<p>evolvingimportant</p>
-</td>
-<td width="123">
-<p>223.175.227.173</p>
-</td>
-</tr>
-<tr>
-<td width="132">
-<p>inguinalself</p>
-</td>
-<td width="123">
-<p>255.111.250.207</p>
-</td>
-</tr>
-<tr>
-<td width="132">
-<p>&hellip;</p>
-</td>
-<td width="123">
-<p>&hellip;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Problem 15. &nbsp;Show All Games with Duration and Part of the Day</h2>
-<p>Find all games with part of the day and duration sorted by game name alphabetically then by duration (alphabetically, not by the timespan) and part of the day (all ascending). <strong>Parts of the day</strong> should be <strong>Morning</strong> (time is &gt;= 0 and &lt; 12), <strong>Afternoon</strong> (time is &gt;= 12 and &lt; 18), <strong>Evening</strong> (time is &gt;= 18 and &lt; 24). <strong>Duration</strong> should be <strong>Extra</strong> <strong>Short </strong>(smaller or equal to 3), <strong>Short </strong>(between 4 and 6 including), <strong>Long</strong> (greater than 6) and <strong>Extra Long </strong>(without duration). Submit your query statements as Prepare DB &amp; run queries.</p>
-<h3>Example</h3>
-<table>
-<tbody>
-<tr>
-<td width="113">
-<p><strong>Game</strong></p>
-</td>
-<td width="123">
-<p><strong>Part of the Day</strong></p>
-</td>
-<td width="113">
-<p><strong>Duration</strong></p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p>Ablajeck</p>
-</td>
-<td width="123">
-<p>Morning</p>
-</td>
-<td width="113">
-<p>Long</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p>Ablajeck</p>
-</td>
-<td width="123">
-<p>Afternoon</p>
-</td>
-<td width="113">
-<p>Short</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p>Abregado Rae</p>
-</td>
-<td width="123">
-<p>Afternoon</p>
-</td>
-<td width="113">
-<p>Long</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p>Abrion</p>
-</td>
-<td width="123">
-<p>Morning</p>
-</td>
-<td width="113">
-<p>Extra Short</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p>Acaeria</p>
-</td>
-<td width="123">
-<p>Evening</p>
-</td>
-<td width="113">
-<p>Long</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p>&hellip;</p>
-</td>
-<td width="123">
-<p>&hellip;</p>
-</td>
-<td width="113">
-<p>&hellip;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h1>Part IV &ndash; Date Functions Queries</h1>
-<h2>Problem 16. &nbsp;Orders Table</h2>
-<p>You are given a table <strong>Orders(Id, ProductName, OrderDate)</strong> filled with data. Consider that the <strong>payment</strong> for that order must be accomplished <strong>within 3 days after the order date</strong>. Also the <strong>delivery date is up to 1 month</strong>. Write a query to show each product&rsquo;s <strong>name</strong>, <strong>order date</strong>, <strong>pay and deliver due dates</strong>. Submit your query statements as Prepare DB &amp; run queries.</p>
-<h3>Original Table</h3>
-<table>
-<tbody>
-<tr>
-<td width="38">
-<p><strong>Id</strong></p>
-</td>
-<td width="104">
-<p><strong>ProductName</strong></p>
-</td>
-<td width="170">
-<p><strong>OrderDate</strong></p>
-</td>
-</tr>
-<tr>
-<td width="38">
-<p>1</p>
-</td>
-<td width="104">
-<p>Butter</p>
-</td>
-<td width="170">
-<p>2016-09-19 00:00:00.000</p>
-</td>
-</tr>
-<tr>
-<td width="38">
-<p>2</p>
-</td>
-<td width="104">
-<p>Milk</p>
-</td>
-<td width="170">
-<p>2016-09-30 00:00:00.000</p>
-</td>
-</tr>
-<tr>
-<td width="38">
-<p>3</p>
-</td>
-<td width="104">
-<p>Cheese</p>
-</td>
-<td width="170">
-<p>2016-09-04 00:00:00.000</p>
-</td>
-</tr>
-<tr>
-<td width="38">
-<p>4</p>
-</td>
-<td width="104">
-<p>Bread</p>
-</td>
-<td width="170">
-<p>2015-12-20 00:00:00.000</p>
-</td>
-</tr>
-<tr>
-<td width="38">
-<p>5</p>
-</td>
-<td width="104">
-<p>Tomatoes</p>
-</td>
-<td width="170">
-<p>2015-12-30 00:00:00.000</p>
-</td>
-</tr>
-<tr>
-<td width="38">
-<p>&hellip;</p>
-</td>
-<td width="104">
-<p>&hellip;</p>
-</td>
-<td width="170">
-<p>&hellip;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Output</h3>
-<table>
-<tbody>
 <tr>
 <td width="123">
-<p><strong>ProductName</strong></p>
-</td>
-<td width="170">
-<p><strong>OrderDate</strong></p>
-</td>
-<td width="170">
-<p><strong>Pay Due</strong></p>
-</td>
-<td width="170">
-<p><strong>Deliver Due</strong></p>
+<p>Assassin</p>
 </td>
 </tr>
 <tr>
 <td width="123">
-<p>Butter</p>
-</td>
-<td width="170">
-<p>2016-09-19 00:00:00.000</p>
-</td>
-<td width="170">
-<p>2016-09-22 00:00:00.000</p>
-</td>
-<td width="170">
-<p>2016-10-19 00:00:00.000</p>
+<p>Barbarian</p>
 </td>
 </tr>
 <tr>
 <td width="123">
-<p>Milk</p>
-</td>
-<td width="170">
-<p>2016-09-30 00:00:00.000</p>
-</td>
-<td width="170">
-<p>2016-10-03 00:00:00.000</p>
-</td>
-<td width="170">
-<p>2016-10-30 00:00:00.000</p>
-</td>
-</tr>
-<tr>
-<td width="123">
-<p>Cheese</p>
-</td>
-<td width="170">
-<p>2016-09-04 00:00:00.000</p>
-</td>
-<td width="170">
-<p>2016-09-07 00:00:00.000</p>
-</td>
-<td width="170">
-<p>2016-10-04 00:00:00.000</p>
-</td>
-</tr>
-<tr>
-<td width="123">
-<p>Bread</p>
-</td>
-<td width="170">
-<p>2015-12-20 00:00:00.000</p>
-</td>
-<td width="170">
-<p>2015-12-23 00:00:00.000</p>
-</td>
-<td width="170">
-<p>2016-01-20 00:00:00.000</p>
-</td>
-</tr>
-<tr>
-<td width="123">
-<p>Tomatoes</p>
-</td>
-<td width="170">
-<p>2015-12-30 00:00:00.000</p>
-</td>
-<td width="170">
-<p>2016-01-02 00:00:00.000</p>
-</td>
-<td width="170">
-<p>2016-01-30 00:00:00.000</p>
-</td>
-</tr>
-<tr>
-<td width="123">
-<p>&hellip;</p>
-</td>
-<td width="170">
-<p>&hellip;</p>
-</td>
-<td width="170">
-<p>&hellip;</p>
-</td>
-<td width="170">
-<p>&hellip;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Problem 17. &nbsp;People Table</h2>
-<p>Create a table <strong>People(Id, Name</strong><strong>, Birthdate).</strong> Write a query to <strong>find</strong> <strong>age in years</strong>, <strong>months</strong>, <strong>days</strong> and <strong>minutes</strong> for each person for the <strong>current time</strong> of executing the query.</p>
-<h3>Original Table</h3>
-<table>
-<tbody>
-<tr>
-<td width="38">
-<p><strong>Id</strong></p>
-</td>
-<td width="66">
-<p><strong>Name</strong></p>
-</td>
-<td width="170">
-<p><strong>Birthdate</strong></p>
-</td>
-</tr>
-<tr>
-<td width="38">
-<p>1</p>
-</td>
-<td width="66">
-<p>Victor</p>
-</td>
-<td width="170">
-<p>2000-12-07 00:00:00.000</p>
-</td>
-</tr>
-<tr>
-<td width="38">
-<p>2</p>
-</td>
-<td width="66">
-<p>Steven</p>
-</td>
-<td width="170">
-<p>1992-09-10 00:00:00.000</p>
-</td>
-</tr>
-<tr>
-<td width="38">
-<p>3</p>
-</td>
-<td width="66">
-<p>Stephen</p>
-</td>
-<td width="170">
-<p>1910-09-19 00:00:00.000</p>
-</td>
-</tr>
-<tr>
-<td width="38">
-<p>4</p>
-</td>
-<td width="66">
-<p>John</p>
-</td>
-<td width="170">
-<p>2010-01-06 00:00:00.000</p>
-</td>
-</tr>
-<tr>
-<td width="38">
-<p>&hellip;</p>
-</td>
-<td width="66">
-<p>&hellip;</p>
-</td>
-<td width="170">
-<p>&hellip;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Example Output</h3>
-<table>
-<tbody>
-<tr>
-<td width="76">
-<p><strong>Name</strong></p>
-</td>
-<td width="95">
-<p><strong>Age in Years</strong></p>
-</td>
-<td width="104">
-<p><strong>Age in Months</strong></p>
-</td>
-<td width="85">
-<p><strong>Age in Days</strong></p>
-</td>
-<td width="113">
-<p><strong>Age in Minutes</strong></p>
-</td>
-</tr>
-<tr>
-<td width="76">
-<p>Victor</p>
-</td>
-<td width="95">
-<p>16</p>
-</td>
-<td width="104">
-<p>189</p>
-</td>
-<td width="85">
-<p>5754</p>
-</td>
-<td width="113">
-<p>8286787</p>
-</td>
-</tr>
-<tr>
-<td width="76">
-<p>Steven</p>
-</td>
-<td width="95">
-<p>24</p>
-</td>
-<td width="104">
-<p>288</p>
-</td>
-<td width="85">
-<p>8764</p>
-</td>
-<td width="113">
-<p>12621187</p>
-</td>
-</tr>
-<tr>
-<td width="76">
-<p>Stephen</p>
-</td>
-<td width="95">
-<p>106</p>
-</td>
-<td width="104">
-<p>1272</p>
-</td>
-<td width="85">
-<p>38706</p>
-</td>
-<td width="113">
-<p>55737667</p>
-</td>
-</tr>
-<tr>
-<td width="76">
-<p>John</p>
-</td>
-<td width="95">
-<p>6</p>
-</td>
-<td width="104">
-<p>80</p>
-</td>
-<td width="85">
-<p>2437</p>
-</td>
-<td width="113">
-<p>3510307</p>
-</td>
-</tr>
-<tr>
-<td width="76">
-<p>&hellip;</p>
-</td>
-<td width="95">
-<p>&hellip;</p>
-</td>
-<td width="104">
-<p>&hellip;</p>
-</td>
-<td width="85">
-<p>&hellip;</p>
-</td>
-<td width="113">
 <p>&hellip;</p>
 </td>
 </tr>
