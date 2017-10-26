@@ -18,8 +18,8 @@
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">Databases Basics - MS SQL Server - September 2017: <br /> 
-18.09.2017 - 22.10.2017</th><th width="40%">Grade: NULL (out of 6.00) <br /> Issue Date: NULL </th><th align="center width=">
-<p><a title="Databases Basics - MS SQL Server" href="" target="_blank">Certificate</a></p>
+18.09.2017 - 22.10.2017</th><th width="40%">Grade: 6.00 (out of 6.00) <br /> Issue Date: 25/10/2017 </th><th align="center width=">
+<p><a title="Databases Basics - MS SQL Server" href="https://softuni.bg/certificates/details/23891/c2dfd399" target="Certificate">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
 <tr>
@@ -51,10 +51,26 @@
 <p><a title="Functions, Triggers and Transactions" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/CSharp-DB-Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server/08.%20Functions%2C%20Triggers%20and%20Transactions" target="_blank">Functions, Triggers and Transactions - Exercises</a></p>
 </td>
 <td colspan="2" width="50%">
-<p>&nbsp;</p>
+<p><a title="Additional Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/CSharp-DB-Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server/09.%20Additional%20Exercises" target="_blank">Additional Exercises</a></p>
 </td>
 </tr>
 <tr><td colspan="3" align="center" width="100%"><p>Exam Preparation</p></td></tr>
+<tr>
+<td width="50%">
+<p><a title="Databases MSSQL Retake Exam - 15 December 2016" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/CSharp-DB-Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server/Exams/Databases%20MSSQL%20Retake%20Exam%20-%2015%20December%202016" target="_blank">Databases MSSQL Retake Exam - 15 December 2016</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Databases MSSQL Server Exam - 24 April 2017" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/CSharp-DB-Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server/Exams/Databases%20MSSQL%20Server%20Exam%20-%2024%20April%202017" target="_blank">Databases MSSQL Server Exam - 24 April 2017</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam - 19 February 2017" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/CSharp-DB-Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server/Exams/Exam%20-%2019%20February%202017" target="_blank">Exam - 19 February 2017</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Exam - 22 October" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/CSharp-DB-Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server/Exams/Exam%20-%2022%20October" target="_blank">Exam - 22 October</a></p>
+</td>
+</tr>
 <!-- Databases Basics - MS SQL Server -->
 <!-- C# OOP Advanced Start --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
