@@ -1,0 +1,1 @@
+﻿SELECT m.Name FROM Minnions AS [m]

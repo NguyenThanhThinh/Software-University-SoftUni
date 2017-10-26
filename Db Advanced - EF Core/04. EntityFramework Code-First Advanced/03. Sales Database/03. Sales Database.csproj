@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="2.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Migrations\201710141616318_InitialCreate.Designer.cs">
+      <DependentUpon>201710141616318_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Migrations\201710141727357_ProductsAddColumnDescription.Designer.cs">
+      <DependentUpon>201710141727357_ProductsAddColumnDescription.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Migrations\201710161145035_SalesAddDateDefault.Designer.cs">
+      <DependentUpon>201710161145035_SalesAddDateDefault.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Migrations\201710141616318_InitialCreate.resx">
+      <DependentUpon>201710141616318_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Migrations\201710141727357_ProductsAddColumnDescription.resx">
+      <DependentUpon>201710141727357_ProductsAddColumnDescription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Migrations\201710161145035_SalesAddDateDefault.resx">
+      <DependentUpon>201710161145035_SalesAddDateDefault.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

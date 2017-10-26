@@ -1,0 +1,8 @@
+﻿BEGIN TRANSACTION
+
+IF(@GivenMinion IN (SELECT Name FROM Minnions))
+BEGIN
+RAISERROR('success', 1, 1)
+END
+
+COMMIT
