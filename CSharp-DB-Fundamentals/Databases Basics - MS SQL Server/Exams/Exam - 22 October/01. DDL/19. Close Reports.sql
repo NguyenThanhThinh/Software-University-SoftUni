@@ -1,0 +1,27 @@
+CREATE TRIGGER trg_afterCloseDate ON dbo.Reports FOR UPDATE
+AS
+DECLARE @CurrentCloseDate datetime
+DECLARE @LastCloseDate datetime
+
+DECLARE MY_CURSOR CURSOR 
+  LOCAL STATIC READ_ONLY FORWARD_ONLY
+FOR 
+SELECT DISTINCT CloseDate
+FROM inserted
+
+OPEN MY_CURSOR
+FETCH NEXT FROM MY_CURSOR INTO @CurrentCloseDate
+WHILE @@FETCH_STATUS = 0
+BEGIN 
+    --Do something with Id here
+    IF(@CurrentCloseDate IS NOT NULL)
+	BEGIN
+	UPDATE Reports
+	SET StatusId = 3
+	WHERE Id IN (SELECT Id FROM inserted)
+	END
+    FETCH NEXT FROM MY_CURSOR INTO @CurrentCloseDate
+END
+CLOSE MY_CURSOR
+DEALLOCATE MY_CURSOR
+

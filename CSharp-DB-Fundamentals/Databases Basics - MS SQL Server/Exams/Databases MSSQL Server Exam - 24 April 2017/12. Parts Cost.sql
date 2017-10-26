@@ -1,4 +1,4 @@
-SELECT SUM(op.Quantity * p.Price) AS [Parts Total] 
+SELECT ISNULL(SUM(op.Quantity * p.Price), 0) AS [Parts Total] 
   FROM Orders AS [o]
  INNER JOIN OrderParts AS [op]
 	ON o.OrderId = op.OrderId
