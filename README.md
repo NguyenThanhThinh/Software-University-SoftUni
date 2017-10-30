@@ -14,6 +14,42 @@
 </tbody>
 </table>
 <!-- Head End -->
+<!-- Databases Advanced - Entity Framework Core Start --><hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">Databases Advanced - Entity Framework - October 2017: <br /> 
+24.10.2017 - 10.12.2017</th><th width="40%">Grade: NULL (out of 6.00) <br /> Issue Date: NULL </th><th align="center width=">
+<p><a title="Databases Advanced - Entity Framework - October 2017:" href="" target="Certificate">Certificate</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="DB Apps Introduction" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Db%20Advanced%20-%20EF%20Core/01.%20DB%20Apps%20Introduction" target="_blank">DB Apps Introduction - Exercises</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Introduction to EntityFramework" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Db%20Advanced%20-%20EF%20Core/02.%20Introduction%20to%20EntityFramework" target="_blank">Introduction to EntityFramework - Exercises</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="EntityFramework Code-First" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Db%20Advanced%20-%20EF%20Core/03.%20EntityFramework%20Code-First" target="_blank">EntityFramework Code-First - Exercises</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="EntityFramework Code-First Advanced" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Db%20Advanced%20-%20EF%20Core/04.%20EntityFramework%20Code-First%20Advanced" target="_blank">EntityFramework Code-First Advanced - Exercises</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Entity Relations (OOP Composition)" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Db%20Advanced%20-%20EF%20Core/05.%20Entity%20Relations%20(OOP%20Composition)" target="_blank">Entity Relations (OOP Composition) - Exercises</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="NULL" href="NULL" target="_blank">NULL - Exercises</a></p>
+</td>
+</tr>
+<!-- Databases Advanced - Entity Framework Core End -->
+
+
+
 <!-- Databases Basics - MS SQL Server Start --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
