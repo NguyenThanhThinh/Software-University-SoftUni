@@ -1,0 +1,134 @@
+[
+  {
+    "CategoryName": "Adult",
+    "ProductsCount": 9,
+    "AvaragePrice": 541.902222,
+    "TotalRevenue": 4877.12
+  },
+  {
+    "CategoryName": "Adult",
+    "ProductsCount": 4,
+    "AvaragePrice": 877.977500,
+    "TotalRevenue": 3511.91
+  },
+  {
+    "CategoryName": "Autoparts",
+    "ProductsCount": 7,
+    "AvaragePrice": 837.728571,
+    "TotalRevenue": 5864.10
+  },
+  {
+    "CategoryName": "Autoparts",
+    "ProductsCount": 14,
+    "AvaragePrice": 783.403571,
+    "TotalRevenue": 10967.65
+  },
+  {
+    "CategoryName": "Business",
+    "ProductsCount": 5,
+    "AvaragePrice": 509.852000,
+    "TotalRevenue": 2549.26
+  },
+  {
+    "CategoryName": "Business",
+    "ProductsCount": 6,
+    "AvaragePrice": 819.851666,
+    "TotalRevenue": 4919.11
+  },
+  {
+    "CategoryName": "Drugs",
+    "ProductsCount": 8,
+    "AvaragePrice": 545.270000,
+    "TotalRevenue": 4362.16
+  },
+  {
+    "CategoryName": "Drugs",
+    "ProductsCount": 11,
+    "AvaragePrice": 973.592727,
+    "TotalRevenue": 10709.52
+  },
+  {
+    "CategoryName": "Electronics",
+    "ProductsCount": 7,
+    "AvaragePrice": 570.225714,
+    "TotalRevenue": 3991.58
+  },
+  {
+    "CategoryName": "Electronics",
+    "ProductsCount": 12,
+    "AvaragePrice": 811.687500,
+    "TotalRevenue": 9740.25
+  },
+  {
+    "CategoryName": "Fashion",
+    "ProductsCount": 7,
+    "AvaragePrice": 890.398571,
+    "TotalRevenue": 6232.79
+  },
+  {
+    "CategoryName": "Fashion",
+    "ProductsCount": 6,
+    "AvaragePrice": 510.916666,
+    "TotalRevenue": 3065.50
+  },
+  {
+    "CategoryName": "For Children",
+    "ProductsCount": 9,
+    "AvaragePrice": 739.281111,
+    "TotalRevenue": 6653.53
+  },
+  {
+    "CategoryName": "For Children",
+    "ProductsCount": 8,
+    "AvaragePrice": 782.640000,
+    "TotalRevenue": 6261.12
+  },
+  {
+    "CategoryName": "Garden",
+    "ProductsCount": 14,
+    "AvaragePrice": 731.513571,
+    "TotalRevenue": 10241.19
+  },
+  {
+    "CategoryName": "Garden",
+    "ProductsCount": 7,
+    "AvaragePrice": 785.181428,
+    "TotalRevenue": 5496.27
+  },
+  {
+    "CategoryName": "Other",
+    "ProductsCount": 7,
+    "AvaragePrice": 871.035714,
+    "TotalRevenue": 6097.25
+  },
+  {
+    "CategoryName": "Other",
+    "ProductsCount": 12,
+    "AvaragePrice": 1033.670000,
+    "TotalRevenue": 12404.04
+  },
+  {
+    "CategoryName": "Sports",
+    "ProductsCount": 12,
+    "AvaragePrice": 928.856666,
+    "TotalRevenue": 11146.28
+  },
+  {
+    "CategoryName": "Sports",
+    "ProductsCount": 9,
+    "AvaragePrice": 623.842222,
+    "TotalRevenue": 5614.58
+  },
+  {
+    "CategoryName": "Weapons",
+    "ProductsCount": 9,
+    "AvaragePrice": 500.780000,
+    "TotalRevenue": 4507.02
+  },
+  {
+    "CategoryName": "Weapons",
+    "ProductsCount": 17,
+    "AvaragePrice": 872.996470,
+    "TotalRevenue": 14840.94
+  }
+]
