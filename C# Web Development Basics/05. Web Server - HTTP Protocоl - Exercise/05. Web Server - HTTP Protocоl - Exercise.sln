@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByTheCake", "ByTheCake\ByTheCake.csproj", "{03A576AA-6D99-4C4E-A720-E43F595B61DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{D8BC1544-7E5A-414B-8A46-5F54489CEB8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A576AA-6D99-4C4E-A720-E43F595B61DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A576AA-6D99-4C4E-A720-E43F595B61DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A576AA-6D99-4C4E-A720-E43F595B61DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A576AA-6D99-4C4E-A720-E43F595B61DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8BC1544-7E5A-414B-8A46-5F54489CEB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BC1544-7E5A-414B-8A46-5F54489CEB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BC1544-7E5A-414B-8A46-5F54489CEB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BC1544-7E5A-414B-8A46-5F54489CEB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A021690-2F6D-4436-9D3A-D02D273C20A2}
+	EndGlobalSection
+EndGlobal
