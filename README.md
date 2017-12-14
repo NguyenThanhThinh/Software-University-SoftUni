@@ -48,7 +48,40 @@ Sevdalin Paunov
 <p><a title="Entity Relations (OOP Composition)" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Db%20Advanced%20-%20EF%20Core/05.%20Entity%20Relations%20(OOP%20Composition)" target="_blank">Entity Relations (OOP Composition) - Exercises</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="NULL" href="NULL" target="_blank">NULL - Exercises</a></p>
+<p><a title="Advanced Querying" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Db%20Advanced%20-%20EF%20Core/07.%20Advanced%20Querying" target="_blank">Advanced Querying</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Best Practices and Architecture" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Db%20Advanced%20-%20EF%20Core/08.%20Best%20Practices%20and%20Architecture/PhotoShare" target="_blank">Best Practices and Architecture</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="C# Auto Mapping Objects" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Db%20Advanced%20-%20EF%20Core/09.%20C%23%20Auto%20Mapping%20Objects" target="_blank">C# Auto Mapping Objects</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="External Format Processing (JSON, XML)" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Db%20Advanced%20-%20EF%20Core/10.%20External%20Format%20Processing%20(JSON%2C%20XML)" target="_blank">External Format Processing (JSON, XML)</a></p>
+</td>
+<td colspan="2" width="50%">
+<p></p>
+</td>
+</tr>
+<tr><td colspan="3" align="center" width="100%"><p>Exam Preparation</p></td></tr>
+<tr>
+<td width="50%">
+<p><a title="Exam Preparation" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Db%20Advanced%20-%20EF%20Core/11.%20Exam%20Preparation" target="_blank">Exam Preparation</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Exam Preparation II" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Db%20Advanced%20-%20EF%20Core/12.%20Exam%20Preparation%20II" target="_blank">Exam Preparation II</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Exam 10-12-2017" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/Db%20Advanced%20-%20EF%20Core/Exam%2010-12-2017" target="_blank">Exam 10-12-2017</a></p>
+</td>
+<td colspan="2" width="50%">
+<p></p>
 </td>
 </tr>
 <!-- Databases Advanced - Entity Framework Core End -->
