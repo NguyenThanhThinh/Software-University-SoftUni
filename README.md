@@ -17,8 +17,8 @@
 <!-- Databases Advanced - Entity Framework Core Start --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
-<tr><th align="center" width="50%">Databases Advanced - Entity Framework - October 2017: <br /> 
-24.10.2017 - 10.12.2017</th><th width="40%">Grade: NULL (out of 6.00) <br /> Issue Date: NULL </th><th align="center width=">
+<tr><th align="center" width="50%">Databases Advanced - Entity Framework Core - October 2017: <br /> 
+24.10.2017 - 10.12.2017</th><th width="40%">Grade: 6.00 (out of 6.00) <br /> Issue Date: NULL </th><th align="center width=">
 <p><a title="Databases Advanced - Entity Framework - October 2017:" href="" target="Certificate">Certificate</a></p>
 </th></tr>
 <!-- Course Body -->
