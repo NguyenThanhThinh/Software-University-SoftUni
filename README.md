@@ -10,7 +10,7 @@
 <td align="center" width="33%"><img src="https://avatars1.githubusercontent.com/u/25548429?v=4&u=6251187fa3982cc79485468a3adc8a67b876cace&s=400" alt="" />
 Author: 
 <strong>
-<a title="LinkedIn Sevdalin Paunov" href="https://www.linkedin.com/in/sevdalin-paunov-5bb3705a" target="_blank">
+<a title="LinkedIn Sevdalin Paunov" href="www.linkedin.com/in/sevdalin" target="_blank">
 Sevdalin Paunov
 </a>
 </strong></p>
