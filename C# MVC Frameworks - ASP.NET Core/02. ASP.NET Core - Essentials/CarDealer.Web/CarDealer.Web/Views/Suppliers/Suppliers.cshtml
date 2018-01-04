@@ -1,0 +1,30 @@
+﻿@using CarDealer.App.Models.Suppliers
+@model CarDealer.App.Models.Suppliers.SuppliersModel
+
+@{
+    ViewData["Title"] = $"{Model.Type} Suppliers";
+}
+
+<h2>List of all @Model.Type suppliers</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Supply Parts</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var supplier in @Model.SuppliersModels)
+            {
+                <tr>
+                    <td>@supplier.Id</td>
+                    <td>@supplier.Name</td>
+                    <td>@supplier.NumberOfParts</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

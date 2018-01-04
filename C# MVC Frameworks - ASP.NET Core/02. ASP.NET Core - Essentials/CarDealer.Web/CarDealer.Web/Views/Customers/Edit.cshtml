@@ -1,0 +1,9 @@
+﻿@model CustomerModel
+
+@{
+    ViewData["Title"] = $"Edit Customer";
+}
+
+<h2 style="margin-left: 100px">@ViewData["Title"]</h2>
+
+@Html.Partial("_CustomerForm", Model);

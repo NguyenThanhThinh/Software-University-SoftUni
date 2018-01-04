@@ -1,0 +1,72 @@
+﻿@model AddCarWithPartsModel
+
+@{
+    ViewData["Title"] = $"Add Car";
+}
+
+<h2 style="margin-left: 100px">@ViewData["Title"]</h2>
+
+<form method="post" class="form-horizontal" style="margin-top: 40px">
+    <div class="form-group">
+        <label asp-for="Make" class="col-sm-1 control-label">Make</label>
+        <div class="col-sm-4">
+            <input type="text" asp-for="Make" class="form-control" placeholder="Make">
+            <span asp-validation-for="Make" class="form-text text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Model" class="col-sm-1 control-label">Model</label>
+        <div class="col-sm-4">
+            <input type="text" asp-for="Model" cl class="form-control" placeholder="Model">
+            <span asp-validation-for="Model" cl class="form-text text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TravelledDistance" class="col-sm-1 control-label">Travelled Distance</label>
+        <div class="col-sm-4">
+            <input type="number" asp-for="TravelledDistance" class="form-control" placeholder="Travelled Distance">
+            <span asp-validation-for="TravelledDistance" class="form-text text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PartName" class="col-sm-1 control-label">Part 1</label>
+        <div class="col-sm-3">
+            <select asp-for="PartName" class="form-control" placeholder="Parts">
+                <option style="display:none">Select part</option>
+                @foreach (var part in Model.Parts)
+                {
+                    <option>@part.PartName</option>
+                }
+            </select>
+        </div>
+        <label asp-for="PartNameTwo" class="col-sm-1 control-label">Part 2</label>
+        <div class="col-sm-3">
+            <select asp-for="PartNameTwo" class="form-control" placeholder="Parts">
+                <option style="display:none">Select part</option>
+                @foreach (var part in Model.Parts)
+                {
+                    <option>@part.PartName</option>
+                }
+            </select>
+        </div>
+        <label asp-for="PartNameThree" class="col-sm-1 control-label">Part 3</label>
+        <div class="col-sm-3">
+            <select asp-for="PartNameThree" class="form-control" placeholder="Parts">
+                <option style="display:none">Select part</option>
+                @foreach (var part in Model.Parts)
+                {
+                    <option>@part.PartName</option>
+                }
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-sm-offset-1 col-sm-10">
+            <button type="submit" class="btn btn-success">Add Car</button>
+        </div>
+    </div>
+</form>

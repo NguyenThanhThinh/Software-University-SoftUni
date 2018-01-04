@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Part>
+
+@{
+    ViewData["Title"] = "All Parts";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-bordered table-hover" style="margin-top: 40px">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Supplier</th>
+            <th>#Action#</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int index = 1;
+            foreach (var part in @Model)
+            {
+                <tr>
+                    <td>@index</td>
+                    <td>@part.Name</td>
+                    <td>@part.Price.ToString()</td>
+                    <td>@part.Quantity</td>
+                    <td>@(part.Supplier?.Name ?? string.Empty)</td>
+
+                    <td>
+                        <a class="btn btn-info" href="/parts/edit/@part.Id" role="button">Edit</a>
+                        <button class="btn btn-large btn-danger" data-toggle="confirmation"
+                                data-btn-ok-label="Continue" data-btn-ok-icon="glyphicon glyphicon-share-alt"
+                                data-btn-ok-class="btn-success"
+                                data-btn-cancel-label="Stoooop!" data-btn-cancel-icon="glyphicon glyphicon-ban-circle"
+                                data-btn-cancel-class="btn-danger"
+                                data-title="Is it ok?" data-content="This might be dangerous">
+                            Delete
+                        </button>
+                    </td>
+                </tr>
+                index++;
+            }
+        }
+    </tbody>
+</table>

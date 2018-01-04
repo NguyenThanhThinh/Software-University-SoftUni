@@ -1,0 +1,25 @@
+﻿@using CarDealer.Services.Models.Customers
+@model CarDealer.Services.Models.Customers.CustomerByIdModel
+
+@{
+    ViewData["Title"] = "Sales By Customer";
+}
+
+<h3>Total Sales By Customer</h3>
+<br />
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Cars Count</th>
+            <th>Total Money Spend</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.Name</td>
+            <td>@Model.BoughtCars</td>
+            <td>@Model.TotalMoneySpend</td>
+        </tr>
+    </tbody>
+</table>

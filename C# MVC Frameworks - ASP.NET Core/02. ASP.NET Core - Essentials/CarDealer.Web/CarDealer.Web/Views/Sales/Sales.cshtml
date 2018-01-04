@@ -1,0 +1,41 @@
+﻿@using CarDealer.Web.Infrastructior.Extensions
+@model IEnumerable<SaleModel>
+
+@{
+    var suffix = Model.Any(m => m.Discount == 0.0) ? "" : " with Discount";
+    ViewData["Title"] = "All Sales" + suffix;
+}
+
+<h2 style="margin-left: 10px">@ViewData["Title"]</h2>
+
+<table class="table table-bordered table-hover" style="margin-top: 40px">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Car Make</th>
+            <th>Car Model</th>
+            <th>Travelled Distance</th>
+            <th>Customer</th>
+            <th>Price with Discount</th>
+            <th>Price without Discount</th>
+            <th>Discount</th>
+        </tr>
+        @{
+            int index = 1;
+            foreach (var sale in Model)
+            {
+                <tr>
+                    <th scope="row">@index</th>
+                    <th>@sale.Make</th>
+                    <th>@sale.Model</th>
+                    <th>@sale.TravelledDistance</th>
+                    <th>@sale.Customer</th>
+                    <th>@((sale.Price * (sale.Discount / 100)).ToPrice())</th>
+                    <th>@sale.Price.ToPrice()</th>
+                    <th>@sale.Discount.ToPrice()</th>
+                </tr>
+                index++;
+            }
+        }
+    </thead>
+</table>
