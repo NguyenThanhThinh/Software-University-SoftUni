@@ -19,6 +19,55 @@ Sevdalin Paunov
 </tbody>
 </table>
 <!-- Head End -->
+<!-- C# Web Development Basics - септември 2017 --><hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">C# Web Development Basics - септември 2017: <br /> 
+19.09.2017 - 29.10.2017</th><th width="40%">Grade: NULL (out of 6.00) <br /> Issue Date: NULL </th><th align="center width="> <p><a title="C# Web Development Basics - септември 2017:" href="" target="Certificate">Certificate - NULL</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="HTML & CSS" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20Web%20Development%20Basics/02.%20HTML%20%26%20CSS" target="_blank">HTML & CSS</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Web Server - HTTP Protocol" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20Web%20Development%20Basics/03.%20Web%20Server%20-%20HTTP%20Protocol" target="_blank">Web Server - HTTP Protocol</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Web Server - Asynchronous Processing" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20Web%20Development%20Basics/04.%20Web%20Server%20-%20Asynchronous%20Processing" target="_blank">Web Server - Asynchronous Processing</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Web Server - HTTP Protocоl - Exercise" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20Web%20Development%20Basics/05.%20Web%20Server%20-%20HTTP%20Protoc%D0%BEl%20-%20Exercise" target="_blank">Web Server - HTTP Protocоl - Exercise</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Web Server - State Management" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20Web%20Development%20Basics/06.%20Web%20Server%20-%20State%20Management" target="_blank">Web Server - State Management</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Web Server - Databases - EF Core" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20Web%20Development%20Basics/07.%20Web%20Server%20-%20Databases%20-%20EF%20Core" target="_blank">Web Server - Databases - EF Core</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Workshop - Web Application. Advanced CSS - Bootstrap" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20Web%20Development%20Basics/08.%20Workshop%20-%20Web%20Application.%20Advanced%20CSS%20-%20Bootstrap/07.%20CSharp-Web-Dev-Basics-Workshop-Web-Application-SoftUni-Gamestore/view-examples" target="_blank">Workshop - Web Application. Advanced CSS - Bootstrap</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Intro to MVC. Creating Application Server" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20Web%20Development%20Basics/09.%20Intro%20to%20MVC.%20Creating%20Application%20Server" target="_blank">Intro to MVC. Creating Application Server</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Server" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20Web%20Development%20Basics/Server" target="_blank">Server</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="WebServer & MVC" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20Web%20Development%20Basics/WebServer%20%26%20MVC" target="_blank">WebServer & MVC</a></p>
+</td>
+</tr>
+  
+<!-- Head End -->
 <!-- Databases Advanced - Entity Framework Core Start --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
