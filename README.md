@@ -19,6 +19,33 @@ Sevdalin Paunov
 </tbody>
 </table>
 <!-- Head End -->
+
+<!-- C# MVC Frameworks - ASP.NET Core --><hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">C# MVC Frameworks - ASP.NET Core<br /> 
+12.12.2017 - 25.01.2018</th><th width="40%">Grade: NULL (out of 6.00) <br /> Issue Date: NULL </th><th align="center width="> <p><a title="C# MVC Frameworks - ASP.NET Core" href="" target="Certificate">Certificate - NULL</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="ASP.NET Core Introduction" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20MVC%20Frameworks%20-%20ASP.NET%20Core/01.%20ASP.NET%20Core%20Introduction" target="_blank">ASP.NET Core Introduction</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="ASP.NET Core - Essentials" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20MVC%20Frameworks%20-%20ASP.NET%20Core/02.%20ASP.NET%20Core%20-%20Essentials" target="_blank">ASP.NET Core - Essentials</a></p>
+</td>
+</tr>
+<tr>
+<tr>
+<td width="50%">
+<p><a title="Razor Engine" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20MVC%20Frameworks%20-%20ASP.NET%20Core/03.%20Razor%20Engine" target="_blank">Razor Engine</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="ASP.NET Core - Filters" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20MVC%20Frameworks%20-%20ASP.NET%20Core/04.%20ASP.NET%20Core%20-%20Filters/CameraBazar" target="_blank">ASP.NET Core - Filters</a></p>
+</td>
+</tr>
+<tr>
+
 <!-- C# Web Development Basics - септември 2017 --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
