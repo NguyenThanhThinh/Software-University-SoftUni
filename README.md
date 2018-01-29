@@ -36,7 +36,6 @@ Sevdalin Paunov
 </td>
 </tr>
 <tr>
-<tr>
 <td width="50%">
 <p><a title="Razor Engine" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20MVC%20Frameworks%20-%20ASP.NET%20Core/03.%20Razor%20Engine" target="_blank">Razor Engine</a></p>
 </td>
@@ -44,7 +43,33 @@ Sevdalin Paunov
 <p><a title="ASP.NET Core - Filters" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20MVC%20Frameworks%20-%20ASP.NET%20Core/04.%20ASP.NET%20Core%20-%20Filters/CameraBazar" target="_blank">ASP.NET Core - Filters</a></p>
 </td>
 </tr>
+  
 <tr>
+<td width="50%">
+<p><a title="ASP.NET Core - Filters" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20MVC%20Frameworks%20-%20ASP.NET%20Core/04.%20ASP.NET%20Core%20-%20Filters/CameraBazar" target="_blank">ASP.NET Core - Filters</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Identity" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20MVC%20Frameworks%20-%20ASP.NET%20Core/05.%20Identity" target="_blank">Identity</a></p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<p><a title="Web API - REST Services" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20MVC%20Frameworks%20-%20ASP.NET%20Core/06.%20Web%20API%20-%20REST%20Services" target="_blank">Web API - REST Services</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Cookbook" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20MVC%20Frameworks%20-%20ASP.NET%20Core/07.%20Cookbook" target="_blank">Cookbook</a></p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<p><a title="ASP.NET Unit Testing" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/C%23%20MVC%20Frameworks%20-%20ASP.NET%20Core/08.%20ASP.NET%20Unit%20Testing" target="_blank">ASP.NET Unit Testing</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="" href="" target="_blank"></a></p>
+</td>
+</tr>
 
 <!-- C# Web Development Basics - септември 2017 --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
