@@ -20,6 +20,30 @@ Sevdalin Paunov
 </table>
 <!-- Head End -->
 
+<!-- JS Fundamentals --><hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">JS Fundamentals<br /> 
+15.01.2018 -11.02.2018</th><th width="40%">Grade: NULL (out of 6.00) <br /> Issue Date: NULL </th><th align="center width="> <p><a title="JS Fundamentals" href="" target="Certificate">Certificate - NULL</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="JS Syntax" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript/01.%20JS%20Syntax" target="_blank">JS Syntax</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Operators and Logic Flow" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript/02.%20Operators%20and%20Logic%20Flow" target="_blank">Operators and Logic Flow</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Functions" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript/03.%20Functions" target="_blank">Functions</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Arrays and Matrices" href="" target="_blank">Arrays and Matrices</a></p>
+</td>
+</tr>
+
 <!-- C# MVC Frameworks - ASP.NET Core --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
