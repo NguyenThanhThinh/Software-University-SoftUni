@@ -40,7 +40,28 @@ Sevdalin Paunov
 <p><a title="Functions" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript/03.%20Functions" target="_blank">Functions</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Arrays and Matrices" href="" target="_blank">Arrays and Matrices</a></p>
+<p><a title="Arrays and Matrices" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript/04.%20Arrays%20and%20Matrices" target="_blank">Arrays and Matrices</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Strings and Regular Expressions - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript/05.%20Strings%20and%20Regular%20Expressions%20-%20Lab" target="_blank">Strings and Regular Expressions - Lab</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Strings and Regular Expressions Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript/05.1.%20Strings%20and%20Regular%20Expressions%20Exercises" target="_blank">Strings and Regular Expressions Exercises</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Objects and JSON - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript/06.%20Objects%20and%20JSON%20-%20Lab" target="_blank">Objects and JSON - Lab</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Objects and JSON - Exercises" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript/06.1.%20Objects%20and%20JSON%20-%20Exercises" target="_blank">Objects and JSON - Exercises</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Training Exam" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript/Training%20Exam" target="_blank">Training Exam</a></p>
 </td>
 </tr>
 
