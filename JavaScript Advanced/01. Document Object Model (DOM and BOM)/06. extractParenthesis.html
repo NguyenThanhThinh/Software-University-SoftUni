@@ -1,0 +1,21 @@
+<body>
+<p id="content">
+    Some text (Here also), and some (there also).
+</p>
+</body>
+
+<script>
+    function extract(id) {
+        let text = document.getElementById(id).textContent;
+        let pattern = /\(([^)]+)\)/g;
+        let matches = pattern.exec(text);
+        let result = [];
+
+        while(matches) {
+            result.push(matches[1]);
+            matches = pattern.exec(text);
+        }
+
+        return result.join('; ');
+    }
+</script>
