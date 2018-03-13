@@ -20,6 +20,38 @@ Sevdalin Paunov
 </table>
 <!-- Head End -->
 
+<!-- JS Advanced --><hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">JS Advanced<br /> 
+12.02.2018 -18.03.2018</th><th width="40%">Grade: NULL (out of 6.00) <br /> Issue Date: NULL </th><th align="center width="> <p><a title="JS Advanced" href="" target="Certificate">Certificate - NULL</a></p>
+</th></tr>
+<!-- Course Body -->
+<tr>
+<td width="50%">
+<p><a title="Document Object Model (DOM and BOM)" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript%20Advanced/01.%20Document%20Object%20Model%20(DOM%20and%20BOM)" target="_blank">Document Object Model (DOM and BOM)</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="DOM Manipulation" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript%20Advanced/02.%20DOM%20Manipulation" target="_blank">DOM Manipulation</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="JQuery" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript%20Advanced/03.%20JQuery" target="_blank">JQuery</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="JQuery - Lab" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript%20Advanced/03.1.%20JQuery%20-%20Lab" target="_blank">JQuery - Lab</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p><a title="Advanced Functions" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript%20Advanced/04.%20Advanced%20Functions" target="_blank">Advanced Functions</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Unit testing" href="#" target="_blank">Unit testing</a></p>
+</td>
+</tr>
+
 <!-- JS Fundamentals --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
