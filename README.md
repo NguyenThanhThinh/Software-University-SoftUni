@@ -51,6 +51,14 @@ Sevdalin Paunov
 <p><a title="Object Composition" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript%20Advanced/05.%20Object%20Composition" target="_blank">Object Composition</a></p>
 </td>
 </tr>
+<tr>
+<td width="50%">
+<p><a title="Unit Testing and Error Handling" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript%20Advanced/06.%20Unit%20Testing%20and%20Error%20Handling" target="_blank">Unit Testing and Error Handling</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="JS Classes" href="#" target="_blank">JS Classes</a></p>
+</td>
+</tr>
 
 <!-- JS Fundamentals --><hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
