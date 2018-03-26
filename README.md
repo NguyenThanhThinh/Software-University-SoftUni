@@ -48,7 +48,7 @@ Sevdalin Paunov
 <p><a title="Advanced Functions" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript%20Advanced/04.%20Advanced%20Functions" target="_blank">Advanced Functions</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="Unit testing" href="#" target="_blank">Unit testing</a></p>
+<p><a title="Object Composition" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript%20Advanced/05.%20Object%20Composition" target="_blank">Object Composition</a></p>
 </td>
 </tr>
 
