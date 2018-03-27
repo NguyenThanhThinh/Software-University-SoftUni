@@ -56,7 +56,7 @@ Sevdalin Paunov
 <p><a title="Unit Testing and Error Handling" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript%20Advanced/06.%20Unit%20Testing%20and%20Error%20Handling" target="_blank">Unit Testing and Error Handling</a></p>
 </td>
 <td colspan="2" width="50%">
-<p><a title="JS Classes" href="#" target="_blank">JS Classes</a></p>
+<p><a title="JS Classes" href="https://github.com/sevdalin/Software-University-SoftUni/tree/master/JavaScript%20Advanced/07.%20JS%20Classes" target="_blank">JS Classes</a></p>
 </td>
 </tr>
 
