@@ -1,0 +1,1 @@
+Exercises are combined with the second topic. You can  find them there - 02. AJAX and jQuery AJAX
